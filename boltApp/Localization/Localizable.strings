@@ -1,0 +1,430 @@
+/*
+  Localize.strings
+  findMe
+
+  Created by Roadcast on 14/04/17.
+  Copyright © 2017 Roadcast. All rights reserved.
+*/
+
+"CFBundleName" = "उत्पाद का नाम";
+"CFBundleShortVersionString" = "4.1";
+/* click here to know */
+" Click here to know SOS location " = " एसओएस स्थान पता करने के लिए यहाँ क्लिक करें ";
+/* successfully */
+" successfully" = " सफलतापूर्वक";
+/* unsuccessfull */
+" unsuccessfull" = " unsuccessfull";
+/* activate */
+"ACTIVATE" = "सक्रिय करें";
+/* AVG SPEED */
+"AVG SPEED" = "औसत गति";
+/* activate */
+"Activate" = "सक्रिय करें";
+/* Activating Tracker */
+"Activating Tracker" = "सक्रिय कर रहा है ट्रैकर";
+/* add new tracker */
+"Add New Tracker" = "नई ट्रैकर जोड़े";
+/* Adding tracker */
+"Adding tracker" = "ट्रैकर जोड़ना";
+/* address */
+"Address" = "पता";
+/* All the vehicles will be immobilized */
+"All the vehicles will be immobilized" = "सभी वाहनों को स्थिर कर दिया जाएगा";
+/* Allow the application to send you notifications from settings */
+"Allow the application to send you notifications from settings" = "आवेदन सेटिंग्स से आप सूचनाएं भेजने दें";
+/* back */
+"BACK" = "पीछे";
+/* Back */
+"Back" = "वापस";
+/* activate tracker label */
+"Before Activating Tracker Make Sure Following Checks Are Done. This request will take 1-3 minutes depending on your internet connection." = "सक्रिय ट्रैकर से पहले सुनिश्चित करें कि निम्न चेकों किया जाता है। यह अनुरोध आपके इंटरनेट कनेक्शन पर निर्भर करता है 1-3 मिनट का समय लगेगा।";
+/* Bike */
+"Bike" = "बाइक";
+/* CANCEL */
+"CANCEL" = "रद्द करें";
+/* check geofence */
+"CHECK GEOFENCE" = "जांच geofence";
+/* Cancel
+ canel */
+"Cancel" = "रद्द करना";
+/* Cancelled */
+"Cancelled" = "रद्द किया गया";
+/* Car */
+"Car" = "कार";
+/* Checking Validity */
+"Checking Validity" = "जांच की जा रही वैधता";
+/* Checking geofence */
+"Checking geofence" = "जाँच हो रही है geofence";
+/* Choose Vehicle Type */
+"Choose Vehicle Type" = "वाहन का प्रकार चुनें";
+/* Clear */
+"Clear" = "साफ़ करें";
+/* Clearing Notifications */
+"Clearing Notifications" = "क्लियरिंग सूचनाएं";
+/* Confirm */
+"Confirm" = "निश्चित करें";
+/* cpassword */
+"Confirm Password" = "पुष्टि करणेहेतू पासवर्ड";
+/* Couldn't set the geofence */
+"Couldn't set the geofence" = "geofence सेट नहीं हो सका";
+/* Couldn't update the name */
+"Couldn't update the name" = "नाम अपडेट नहीं कर सका";
+/* DISTANCE */
+"DISTANCE" = "दूरी";
+/* Date */
+"Date" = "तिथि";
+/* Deleting */
+"Deleting" = "हटाया जा रहा है";
+/* Deselct All */
+"Deselct All" = "अचयनित करें सभी";
+/* END */
+"END" = "समाप्त";
+/* exit */
+"EXIT" = "एग्ज़िट ";
+/* email */
+"Email" = "ईमेल";
+/* End Location */
+"End Location" = "अंत स्थान";
+/* forgot password label */
+"Enter the email you registered with Mosfet and we'll send you instruction to get you back online." = "ईमेल आप Mosfet के साथ पंजीकृत दर्ज करें और हम अनुदेश वापस ऑनलाइन प्राप्त करने के लिए भेज देंगे।";
+/* Failed */
+"Failed" = "विफल ";
+/* Failed To add new tracker please contact customer care. */
+"Failed To add new tracker please contact customer care." = "नई ट्रैकर को जोड़ने के लिए कस्टमर केयर से संपर्क करें विफल।";
+/* first name */
+"First Name" = "प्रथम नाम";
+/* forgot-password */
+"Forgot Password?" = "पासवर्ड भूल गए?";
+/* Generating chat link */
+"Generating chat link" = "उत्पन्न चैट लिंक";
+/* geofence */
+"GeoFencing" = "जियोफ़ेंसिंग";
+/* Getiing Details */
+"Getiing Details" = "Getiing विवरण";
+/* Getting Data */
+"Getting Data" = "डेटा हो रही है ...";
+/* Getting Path */
+"Getting Path" = "पथ हो रही है";
+/* Getting Trackers */
+"Getting Trackers" = "ट्रैकर्स हो रही है";
+/* Getting reports */
+"Getting reports" = "हो रही रिपोर्ट";
+/* good afternoon */
+"Good Afternoon" = "नमस्कार";
+/* good evening */
+"Good Evening" = "शुभ संध्या";
+/* good morning */
+"Good Morning" = ":) गुड मॉर्निंग";
+/* Help
+ help */
+"Help" = "मदद";
+/* i acceptn label */
+"I accept the " = "मैं स्वीकारता हूँ ";
+/* imei number */
+"IMEI Number*" = "आईएमईआई नंबर:";
+/* INVITE */
+"INVITE" = "आमंत्रित करें";
+/* Ignition */
+"Ignition" = "इग्निशन";
+/* Immobilized */
+"Immobilized " = "स्थिर ";
+/* Immobilizing */
+"Immobilizing " = "immobilizing ";
+/* insert sim */
+"Insert SIM Card" = "सिम कार्ड डालें";
+/* loginView */
+"LOGIN" = "लॉग इन करें";
+/* last name */
+"Last Name" = "अंतिम नाम";
+/* Link expired */
+"Link expired" = "लिंक की अवधि समाप्त हो";
+/* List */
+"List" = "सूची";
+/* list of vehicles */
+"List Of Vehicles" = "वाहनों की सूची";
+/* List */
+"List of vehicles" = "वाहनों की सूची";
+/* Logging In */
+"Logging In" = "प्रवेश किया";
+/* login */
+"Login" = "लॉग इन करें";
+/* logout */
+"Logout" = "लॉग आउट करें";
+/* messaage
+ message
+ Message */
+"Message" = "संदेश";
+/* Min */
+"Min" = "मिनट";
+/* Mobilized */
+"Mobilized " = "जुटाए ";
+/* Mobilizing */
+"Mobilizing " = "जुटाने ";
+/* new geofence */
+"NEW GE0FENCE" = "नई GE0FENCE";
+/* NOTIFICATIONS */
+"NOTIFICATIONS" = "सूचनाएं";
+/* No Data Found. */
+"No Data Found." = "कोई डेटा नहीं मिला।";
+/* No Data available for this tracker. */
+"No Data available for this tracker." = "कोई डेटा इस पर नजर के लिए उपलब्ध।";
+/* No Data found. */
+"No Data found." = "कोई डेटा नहीं मिला।";
+/* No Followers */
+"No Followers" = "कोई अनुसरणकर्ता";
+/* No Vehicles Found */
+"No Vehicles Found" = "कोई वाहन मिले";
+/* No address available */
+"No address available" = "कोई पता उपलब्ध";
+/* No data found */
+"No data found" = "कोई डेटा नहीं मिला";
+/* No notifications to show */
+"No notifications to show" = "कोई सूचनाएं दिखाने के लिए";
+/* notifiaction */
+"Notification" = "अधिसूचना";
+/* Notifications are disabled */
+"Notifications are disabled" = "सूचनाएं अक्षम हैं";
+/* notifications disabled */
+"Notifications are disabled." = "सूचनाएं अक्षम हैं।";
+/* Notifications are enabled */
+"Notifications are enabled" = "सूचनाएं सक्षम हैं";
+/* notifications enabled */
+"Notifications are enabled." = "सूचनाएं सक्षम हैं।";
+/* OK
+ ok */
+"OK" = "ठीक";
+/* OWL MODE ACTIVE */
+"OWL MODE ACTIVE" = "जागने सक्रिय";
+/* Ok */
+"Ok" = "ठीक है";
+/* owl mmode */
+"Owl Mode" = "उल्लू मोड";
+/* proceed label */
+"PROCEED" = "आगे बढ़ें";
+/* password */
+"Password" = "पासवर्ड ";
+/* passwords dont match */
+"Password and confirm password doesn't match" = "पासवर्ड और पुष्टि पासवर्ड मेल नहीं खाता";
+/* check terms and con */
+"Please check  the terms & conditions to continue" = "नियम एवं जारी रखने के लिए की स्थिति की जांच करें";
+/* Please check all the boxes */
+"Please check all the boxes" = "सभी बक्से की जांच करें";
+/* check email for instruction */
+"Please check your email for further instructions." = "आगे के निर्देशों के लिए कृपया अपनी ईमेल की जाँच करें|";
+/* Please enter a 15 digit IMEI */
+"Please enter a 15 digit IMEI" = "एक 15 अंकों आईएमईआई दर्ज करें";
+/* enter valid email */
+"Please enter a valid email to continue" = "जारी रखने के लिए एक मान्य ईमेल दर्ज करें";
+/* valid phone number */
+"Please enter a valid phone number to continue" = "जारी रखने के लिए एक वैध फ़ोन नंबर डालें";
+/* Please enter a valid tracker mobile number. */
+"Please enter a valid tracker mobile number." = "एक वैध ट्रैकर मोबाइल नंबर डालें।";
+/* Please enter all the mandatory details */
+"Please enter all the mandatory details" = "सभी अनिवार्य विवरण दर्ज करें";
+/* enter email */
+"Please enter an email to continue" = "जारी रखने के लिए कोई ईमेल दर्ज करें";
+/* valid email */
+"Please enter valid email to continue" = "जारी रखने के लिए मान्य ईमेल दर्ज करें";
+/* login error */
+"Please enter your username and password." = "कृपया अपना उपयोगकर्तानाम और पासवर्ड प्रविष्ट करें|";
+/* fil all the fields to cntinue */
+"Please fill all the fields to continue" = "कृपया सभी फ़ील्ड जारी रखने के लिए भरने";
+/* Please select any vehicle first */
+"Please select any vehicle first" = "कृपया किसी भी वाहन को चुनें";
+/* REPLAY
+ replay */
+"REPLAY" = "रिप्ले";
+/* registered vehicles */
+"Registered Vehicles" = "पंजीकृत वाहन";
+/* reports */
+"Reports" = "रिपोर्ट";
+/* reset */
+"Reset" = "रीसेट करें";
+/* save */
+"SAVE" = "सेव करें";
+/* send sms */
+"SEND SMS" = "संदेश भेजो";
+/* share vehicle tracking */
+"SHARE VEHICLE TRACKING" = "शेयर वाहन ट्रैकिंग";
+/* sign up */
+"SIGN UP" = "साइन अप";
+/* sos title */
+"SOS" = " sos";
+/* SOS NUMBERS */
+"SOS NUMBERS" = "एसओएस संख्या";
+/* sos number */
+"SOS Number" = "एसओएस संख्या";
+/* message clicked by rider */
+"SOS has been clicked by Rider " = "एसओएस सवार द्वारा क्लिक किया गया है ";
+/* SPY MODE */
+"SPY MODE" = "जासूस मोड";
+/* START */
+"START" = "शुरू करें";
+/* STOP */
+"STOP" = "रोक दें";
+/* save */
+"Save" = "बचाना";
+/* Saving Geofence */
+"Saving Geofence" = "सहेजा जा रहा है Geofence";
+/* Saving new name */
+"Saving new name" = "नया नाम सहेजा जा रहा है";
+/* search vehicle */
+"Search Vehicle" = "खोजें वाहन";
+/* Select All */
+"Select All" = "सबका चयन करें";
+/* Select Date
+ select date */
+"Select Date" = "तिथि का चयन करें,";
+/* Select Vehicle Type */
+"Select Vehicle Type" = "चुनें वाहन के प्रकार";
+/* select vehicle type */
+"Select Vehicle Type*" = "चुनें वाहन प्रकार *";
+/* Sending Email */
+"Sending Email" = "(4) ई मेल भेजना";
+/* Sent */
+"Sent" = "भेज दिया गया है";
+/* Sent via: MOSFET findMe */
+"Sent via: MOSFET findMe" = "MOSFET FindMe: द्वारा भेजा गया";
+/* settings */
+"Settings" = "सेटिंग्स";
+/* share vehicle tracking */
+"Share Vehicle Tracking" = "शेयर वाहन ट्रैकिंग";
+/* show */
+"Show" = "दिखाएँ";
+/* show path button */
+"Show Path" = "दिखाएँ पथ";
+/* signup successfull */
+"Sign Up Successfull" = "साइन अप सफल";
+/* signup */
+"SignUp" = "साइनअप";
+/* Signing UP */
+"Signing UP" = "साइन अप कर रहे हैं ...";
+/* Something went wrong contact the customer care. */
+"Something went wrong contact the customer care." = "कुछ गलत हो संपर्क ग्राहक सेवा चला गया।";
+/* speed snippet */
+"Speed: " = "गति: ";
+/* Start Location */
+"Start Location" = "प्रारंभ स्थान";
+/* switch on tracker */
+"Switch On Tracker" = "ट्रैकर पर स्विच";
+/* TIME */
+"TIME" = "समय";
+/* TRACKER DETAILS */
+"TRACKER DETAILS" = "ट्रैकर विवरण";
+/* terms and cond label */
+"Terms & Conditions" = "नियम एवं शर्तें ";
+/* The over speed value should be less than 4 digits and greater than 100 */
+"The over speed value should be less than 4 digits and greater than 100" = "से अधिक गति मूल्य कम से कम 4 अंक और 100 से अधिक होना चाहिए";
+/* This action will reset all the SOS numbers */
+"This action will reset all the SOS numbers" = "यह क्रिया सभी एसओएस संख्या रीसेट कर देगा";
+/* This action will update the SOS numbers */
+"This action will update the SOS numbers" = "यह क्रिया एसओएस संख्या अद्यतन करेगा";
+/* This request will take 2-3 mins depending upon your internet connction. */
+"This request will take 2-3 mins depending upon your internet connction." = "यह अनुरोध अपने इंटरनेट connction के आधार पर 2-3 मिनट लगेंगे।";
+/* This tracker doesn't exist please try with a different one. */
+"This tracker doesn't exist please try with a different one." = "इस पर नजर मौजूद नहीं है एक अलग से एक के साथ प्रयास करें।";
+/* Timestamp: */
+"Timestamp:" = "टाइमस्टैम्प";
+/* tracker mobile number */
+"Tracker Mobile Number*" = "ट्रैकर मोबाइल नंबर *";
+/* tracker name */
+"Tracker Name*" = "ट्रैकर नाम *";
+/* Tracker activated */
+"Tracker activated" = "ट्रैकर सक्रिय";
+/* Truck */
+"Truck" = "ट्रक";
+/* Try again Later */
+"Try again Later" = "बाद में पुन: प्रयास करें।";
+/* Updating */
+"Updating" = "अपडेट कर रहा है...";
+/* Updating details */
+"Updating details" = "अद्यतन कर रहा है विवरण";
+/* user mobile */
+"User Mobile" = "उपयोगकर्ता मोबाइल";
+/* user name
+ username-signup */
+"UserName" = "उपयोगकर्ता का नाम";
+/* username */
+"Username" = "उपयोगकर्ता का नाम";
+/* view all vehicles */
+"VIEW All VEHICLES" = "सभी वाहन देखें";
+/* Vehicle sharing stopped by owner */
+"Vehicle sharing stopped by owner" = "वाहन बंटवारे मालिक द्वारा बंद कर दिया";
+/* View my vehicle's location by opening this link */
+"View my vehicle's location by opening this link" = "इस लिंक को खोलने के द्वारा मेरे वाहन का स्थान देखें";
+/* View my vehicle's location by opening this link */
+"View my vehicle's location by opening this link \n" = "इस लिंक को खोलने के द्वारा मेरे वाहन का स्थान देखें \n";
+/* wait till lights get stable */
+"Wait Till Lights Gets Stable" = "रुको जब तक रोशनी स्थिर हो जाता है";
+/* owl help text */
+"When Owl Mode is active your selected vehicles will be automatically immobilized. Owl Mode ensure higher security by alerting you in case of the slightest tampering with your vehicle. Note : Other app features remain disabled till Owl Mode is active. To resume other features,  kindly turn off Owl Mode" = "जब उल्लू मोड सक्रिय है आपके चयनित वाहनों स्वचालित रूप से स्थिर हो जाएगा। उल्लू मोड थोड़ी सी के अपने वाहन के साथ छेड़छाड़ सुनिश्चित उच्च सुरक्षा मामले में आप को अलर्ट करके। नोट: अन्य एप्लिकेशन सुविधाओं को अक्षम तक जागने वाले के रूप में सक्रिय है रहते हैं। अन्य सुविधाओं को फिर से शुरू करने के लिए, कृपया उल्लू मोड बंद";
+/* You will no longer receive any notifications */
+"You will no longer receive any notifications" = "अब आप किसी भी सूचनाएं प्राप्त नहीं होंगी";
+/* You will now receive  notifications */
+"You will now receive  notifications" = "अब आपको सूचनाएं प्राप्त होंगी";
+/* cancelled */
+"cancelled" = "रद्द किया गया";
+/* couldn't update */
+"couldn't update" = "अपडेट नहीं कर सका";
+/* error */
+"error" = "त्रुटि";
+/* failed */
+"failed" = "विफल ";
+/* sent */
+"sent" = "भेजा";
+
+"Select Language" = "भाषा चुनिए";
+
+"Personal Tracker" = "व्यक्तिगत ट्रैकर";
+
+"No Geofence for selected tracker." = "चयनित ट्रैकर के लिए कोई जीओफ़ेंस नहीं.";
+
+"Try again later." = "बाद में पुन: प्रयास करें।";
+
+"Please add GeoFence First" =  "कृपया पहले जियोफेंस जोड़ें";
+
+"Successfully added GeoFence" = "जियोफेंस सफलतापूर्वक जोड़ा गया";
+
+"Select Vehicle" = "वाहन चुनें";
+
+"Set Preference" = "प्राथमिकता सेट करें";
+
+"Dismiss" = "ख़ारिज करें";
+
+"Select Marker Color" = "मार्कर का रंग चुनें";
+
+"Application" = "ऐप्लिकेशन";
+
+"Vehicle" = "वाहन";
+
+"Logging Out" = "लॉग आउट";
+
+////
+"Alert number set successfully" = "चेतावनी संख्या सफलतापूर्वक सेट की गई है";
+
+"Alert number deleted successfully" = "अलर्ट नंबर सफलतापूर्वक हटा दिया गया है";
+
+"Reboot command sent successfully" = "रीबूट कमान सफलतापूर्वक भेजा गया है";
+
+"Something went wrong please try again" = "कुछ गलत हो गया। कृपया पुन: प्रयास करें";
+
+"Overspeed alert has been removed" = "ओव्हरस्पीड अलर्ट निकाल दिया गया है";
+
+"Overspeed set to:" = "ओवरस्पेड को निम्न पर सेट किया गया:";
+
+"Vibartion alert turned on" = "कंपन चेतावनी चालू";
+
+"Vibartion alert turned off" = "कंपन चेतावनी बंद";
+
+"Centre number set successfully" = "केंद्र नंबर सफलतापूर्वक सेट किया गया है";
+
+"Name of fitter*" = "फिटर का नाम*";
+///
+
+
+/* success */
+"success" = "success";
+"CFBundleName" = "उत्पाद का नाम";
+"CFBundleShortVersionString" = "1|0";
+"CFBundleName" = "उत्पाद का नाम";
+"CFBundleShortVersionString" = "1|0";

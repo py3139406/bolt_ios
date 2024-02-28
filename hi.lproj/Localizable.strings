@@ -1,0 +1,454 @@
+
+
+// Login view
+"Login" = "लॉग इन करें";
+"UserName" = "उपयोगकर्ता नाम";
+"Password" = "पासवर्ड";
+"Forgot Password?" = "पासवर्ड भूल गए?";
+"NEW USER? SIGN UP" = "नया उपयोगकर्ता? साइन अप करें";
+
+// LoginViewController
+
+"Enter password and User name" = "पासवर्ड और उपयोगकर्ता नाम दर्ज करें";
+"Enter password" = "पास वर्ड दर्ज करें";
+"Enter user name" = "उपयोगकर्ता नाम दर्ज करें";
+"password must be greater than 5 characters" = "पासवर्ड 5 वर्णों से अधिक होना चाहिए";
+"login credentials are invalid" = "लॉगिन प्रमाण-पत्र अमान्य हैं";
+"Fill all fields" = "सभी क्षेत्रों को भरें";
+
+//ForgetPasswordView
+
+" Forgot Password" = " पासवर्ड भूल गए";
+"Enter the mobile number you registered with Bolt and we'll send you OTP to get you back online" = "बोल्ट के साथ पंजीकृत मोबाइल नंबर दर्ज करें और आपको ऑनलाइन वापस लाने के लिए हम आपको ओटीपी भेजेंगे";
+"Enter mobile number" = "मोबाइल नंबर दर्ज करें";
+
+// sign up view
+
+"Error" = "त्रुटि";
+"Sign up" = "साइन अप करें";
+"Mobile Number" = "मोबाइल नंबर";
+"Password" = "पारण शब्द";
+"Confirm Password" = "पासवर्ड की पुष्टि कीजिये";
+
+//OTPView
+"Enter OTP" = "ओटीपी दर्ज करें";
+"Didn\'t received? Send Again" = "प्राप्त नहीं हुआ? फिर से भेजो";
+"send otp again" = "फिर से ओटीपी भेजें";
+
+//OTPResetView
+"Please enter the OTP you just received,to reset your password" = "अपना पासवर्ड रीसेट करने के लिए कृपया प्राप्त ओटीपी दर्ज करें";
+"Didn\'t received? Send Again" = "प्राप्त नहीं हुआ? फिर से भेजो";
+
+
+
+//ImmobilizeView
+"Immobilize" = "स्थिर करना";
+"Select Vehicle/s & tap Bolt to immobilize" = "वाहनों का चयन करें और स्थिर करना करने के लिए बोल्ट टैप करें";
+
+//HelloView
+"Hello" = "नमस्ते";
+"Thank you for buying Bolt for your vehicle.Help us to know you better.Please enter your name & mail id below." = "अपने वाहन के लिए बोल्ट खरीदने के लिए धन्यवाद। हमें आपको बेहतर तरीके से जानने में सहायता करें। कृपया अपना नाम और मेल आईडी नीचे दर्ज करें।";
+
+"Full Name" = "पूरा नाम";
+"Email ID" = "ईमेल आईडी";
+
+
+//GeofenceSegmentVehicleView
+"Select Vehicle" = "वाहन का चयन करें";
+
+
+//ReportsView
+"Reports" = "रिपोर्ट";
+"Select date" = "तारीख़ चुनें";
+"Select your Vehicle" = "अपना वाहन चुनें";
+"STOPS" = "बंद करना";
+"TRIPS" = "ट्रिप्स";
+"DAILY" = "रोज";
+
+//NotificationView
+"Notifications" = "सूचनाएं";
+
+//MapView
+"Traffic" = "यातायात";
+"Satellite Map" = "उपग्रह मानचित्र";
+"Ignition Path" = "इग्निशन पथ";
+"Daily Path" = "दैनिक पथ";
+
+//ShareView
+"Share Location" =  "स्थान साझा करें";
+"Select your Vehicle" = "अपना वाहन चुनें";
+
+//ToolView
+"Bolt Tools" = "बोल्ट उपकरण";
+
+//AddEditVechileView
+
+"Search Vehicle" = "वाहन खोजें";
+"VIEW ALL VEHICLES" = "सभी वाहन देखें";
+
+//UserInformationView
+"Name of fitter" =  "फिटर का नाम";
+"Vehicle Name" = "वाहन का नाम";
+"Device Mobile Number" = "डिवाइस मोबाइल नंबर";
+"Device IMEI Number" =  "डिवाइस आईएमईआई संख्या";
+
+//ActivateDevicesView
+"Activate Devices" = "डिवाइस सक्रिय करें";
+"Before activating tracker make sure following checks are done." = "ट्रैकर को सक्रिय करने से पहले सुनिश्चित करें कि निम्नलिखित चेक किए गए हैं।";
+"Insert Sim Card" = "सिम कार्ड डालें";
+"Switch On Tracker" = "ट्रैकर पर स्विच करें";
+"Wait Till Lights Get Stable" = "प्रतीक्षा करें लाइट्स स्थिर हो जाओ";
+
+//ToolsScrollView
+"REPORTS" = "रिपोर्ट";
+"IMMOBILIZE" = "स्थिर करना";
+"CONNECT & SHARE" = "कनेक्ट करें और साझा करें";
+"APP SETTINGS" = "एप्लिकेशन सेटिंग";
+"CONFIGURATION" = "कॉन्फ़िगरेशन";
+"GEOFENCE" = "जियोफ़ेंस";
+"Geofence" = "जियोफ़ेंस";
+"HELP" = "मदद";
+"LOGOUT" =  "लोग आउट";
+"PROFILE" = "प्रोफाइल";
+"VEHICLE DETAILS" = "वाहन जानकारी";
+
+// AppSettingView
+"App Settings" = "एप्लिकेशन सेटिंग";
+"Language" = "भाषा";
+"Notification Tone" =  "अधिसूचना टोन";
+"Online Vehicle Color" =  "ऑनलाइन वाहन रंग" ;
+"Show/Hide Geofences" = "Geofences दिखाओ / छुपाएं";
+
+//SMSCommandView
+"Configuration" = "कॉन्फ़िगरेशन";
+"Select Vehicle" = "वाहन का चयन करें";
+
+
+//ResetPasswordView
+
+"Reset Password" = "पासवर्ड रीसेट";
+"Password" =  "पासवर्ड";
+"Confirm Password" = "पासवर्ड की पुष्टि कीजिये";
+
+
+//TermsAndConditionsView
+
+"Terms & Conditions" = "नियम एवं शर्तें";
+"By tapping" = "टैप करके";
+"Yes, I agree " =  "हाँ मैं सहमत हूँ ";
+" you accept the terms & conditions listed above in Roadcast\'s service agreement." = " आप रोडकास्ट के सेवा अनुबंध में ऊपर सूचीबद्ध नियमों और शर्तों को स्वीकार करते हैं।";
+"Yes, I Agree" = "हाँ मैं सहमत हूँ";
+
+//GeoFenceMapView
+"Circle" = "वृत्त";
+"Polygon" = "बहुभुज";
+"Polyline" = "पॉलीलाइन";
+"SUBMIT" = "जमा करें";
+
+//ReportMapView :- nothing to localize
+
+//AddGeoFenceView
+"SAVE" = "सेव करें";
+"NEW GE0FENCE" = "नया जियोफ़ेंस";
+
+// ParkingView
+
+"Parking Mode" = "पार्किंग मोड";
+"select vechile/s & turn on parking mode" = "वाहनों का चयन करें और पार्किंग मोड चालू करें";
+
+//ProfileView
+"Profile" = "प्रोफाइल";
+
+//PopUp
+
+" When you turn on" = " जब आप चालू करते हैं";
+"the parking mode, your vehicle will go into \"High Alert\" mode. An alarm will generate if anyone tries to use your vehicle." = "पार्किंग मोड, आपका वाहन \"उच्च अलर्ट\" मोड में जाएगा। अगर कोई आपके वाहन का उपयोग करने का प्रयास करता है तो अलार्म उत्पन्न होगा।";
+"DISMISS" = "खारिज";
+
+
+
+//RCShareConnectChatViewController
+"isTyping" = "टाइप कर रहा है";
+
+//SMSCommandViewController
+"Reboot Tracker" = "रीबूट ट्रैकर";
+"Fuel Cut-off" = "ईंधन कट ऑफ";
+"Fuel Cut-off Restore" = "ईंधन कट ऑफ बहाल";
+"Set Alert Number" = "सतर्कता संख्या सेट करें";
+"Set Center Number" = "सेट सेंटर संख्या";
+"Delete Alert Number" = "सतर्कता संख्या हटाएं";
+"Overspeed Calibration" = "ओवरस्पेड अंशांकन";
+"Vibration Alert" = "कंपन सतर्कता";
+"Check Location via SMS" = "एसएमएस के माध्यम से स्थान की जांच करें";
+"Done" =  "किया हुआ";
+"Select Vehicle" = "वाहन का चयन करें";
+"Vehicle updated successfully." = "वाहन सफलतापूर्वक अपडेट किया गया";
+"Reboot Tracker" = "रीबूट ट्रैकर";
+"Do you want to reboot tracker ?" = "क्या आप ट्रैकर रीबूट करना चाहते हैं?" ;
+"Yes" = "हाँ" ;
+"No" = "नहीं" ;
+"Do you want to cut off fuel ?" =  "क्या आप ईंधन काटना चाहते हैं ?";
+
+"Fuel cut off restore" = "ईंधन बहाल कटौती";
+"Do you want to restore the fuel cut-off" = "क्या आप ईंधन कट ऑफ को बहाल करना चाहते हैं";
+
+"Set Alert Number" = "सतर्कता संख्या सेट करें";
+"Set Center Number" = "सेट सेंटर संख्या";
+"Delete Alert Number" = "सतर्कता संख्या हटाएं";
+"Overspeed Calibration" = "ओवरस्पेड अंशांकन";
+"To turn off overspeed calibration set to 0" =  "Overspeed अंशांकन सेट 0 को बंद करने के लिए";
+"Vibration Alert" = "कंपन सतर्कता";
+"Do you want to send vibration alert" = "क्या आप कंपन सतर्कता भेजना चाहते हैं";
+"Set On" = "सेट करें";
+"Set Off" = "वजह बनता है";
+"Cancel" =  "रद्द करना";
+"Check Location via SMS" = "एसएमएस के माध्यम से स्थान की जांच करें" ;
+"Do you want to check location via SMS" = "क्या आप एसएमएस के माध्यम से स्थान की जांच करना चाहते हैं";
+
+"Please select vehicle first" = "कृपया पहले वाहन का चयन करें";
+"Do you want to delete this number" = "क्या आप इस नंबर को हटाना चाहते हैं";
+"Delete" = "हटाना";
+"Cancel" = "रद्द करना";
+"Cancelled" = "रद्द";
+"Failed" = "अनुत्तीर्ण होना";
+"Sent" = "भेज दिया";
+"Message" = "संदेश";
+"OK" = "ठीक";
+
+//MapsViewController
+"Normal Map" =  "सामान्य मानचित्र";
+"Satellite Map" = "उपग्रह मानचित्र";
+"Updated: " = "अपडेट किया गया: ";
+"\nSpeed: "  = "\nगति: " ;
+"\nBattery: " = "\nबैटरी: ";
+"\nAddress: "= "\nपता: ";
+"Position is not available for this device." = "स्थिति इस डिवाइस के लिए उपलब्ध नहीं है।";
+
+//GeoViewController
+"Please select vehicle" = "कृपया वाहन का चयन करें";
+"Done" = "किया हुआ";
+"Select Vehicle" = "वाहन का चयन करें";
+"No more than two geofence allowed on a single device." = "एक डिवाइस पर दो से अधिक जियोफ़ेंस की अनुमति नहीं है।";
+"Geofence deleted successfully" = "जियोफ़ेंस सफलतापूर्वक हटा दिया गया";
+
+//LeaderShareViewController
+"Sharing Vehicle" = "वाहन साझा करना";
+"Do you want to stop sharing?" = "क्या आप साझा करना बंद करना चाहते हैं?";
+"Okay" = "ठीक है";
+"Cancel" = "रद्द करना";
+" location by opening this link \n" = " इस लिंक को खोलकर स्थान \n";
+"View my vehicle's location by opening this link" = "इस लिंक को खोलकर मेरे वाहन का स्थान देखें";
+
+//ImmobilizeViewController
+"Please select a vehicle to mobilize" = "कृपया संगठित करने के लिए एक वाहन का चयन करें";
+
+//AddEditVehicleViewController
+"Unable to fetch vehicles data due to poor internet connectivity" = "खराब इंटरनेट कनेक्टिविटी के कारण वाहन डेटा लाने में असमर्थ";
+
+"Vehicles updated" = "वाहन अद्यतन";
+"Unable to fetch vehicles data due to poor internet connectivity" = "खराब इंटरनेट कनेक्टिविटी के कारण वाहन डेटा लाने में असमर्थ";
+"Last Updated: " = "आखरी अपडेट: ";
+"\nLast Updated: " = "\nआखरी अपडेट: ";
+"ignitionOn" =  "ज्वलन चालू";
+"ignitionOff" = "इग्निशन ऑफ";
+"Users" =  "उपयोगकर्ता";
+
+//ShareViewController
+
+"Share Vehicle" = "वाहन साझा करें";
+"Are you sure?" = "क्या आपको यकीन है?";
+"Yes" = "हाँ";
+"No" = "नहीं";
+"Please select vehicle first" = "कृपया पहले वाहन का चयन करें";
+"View my vehicle's location by opening this link" = "इस लिंक को खोलकर मेरे वाहन का स्थान देखें";
+
+//HelloViewController
+"Please fill all details" = "कृपया सभी विवरण भरें";
+"Thank You" = "धन्यवाद";
+"You can login using you id and password" = "आप आईडी और पासवर्ड का उपयोग कर लॉगिन कर सकते हैं";
+
+
+//ReportViewController
+"Cancel" = "रद्द करना";
+"Confirm" = "की पुष्टि करें";
+"Select Vehicle" = "वाहन का चयन करें";
+"Please select date and your vehicle" = "कृपया तिथि और अपना वाहन चुनें";
+"Please select a date" = "कृपया एक तिथि का चयन करें";
+"Please select your vehicle" = "कृपया अपना वाहन चुनें";
+"No address" = "कोई पता नहीं";
+
+//NotificationViewController
+"Notifications updated" = "अधिसूचना अद्यतन";
+"Unable to fetch Notifications due to poor internet connectivity" = "खराब इंटरनेट कनेक्टिविटी के कारण अधिसूचनाएं लाने में असमर्थ";
+"Last command for " = "के लिए अंतिम आदेश ";
+"Ignition off alert " = "सतर्कता इग्निशन ऑफ ";
+"for " = "के लिये ";
+"Ignition on alert "  = "सतर्कता इग्निशन चालू " ;
+" has exit geofence " =   "जियोफ़ेंस बाहर निकल गया है ";
+" has entered geofence " = " जियोफ़ेंस में प्रवेश किया है ";
+"Device stopped alert "  = "डिवाइस ने सतर्कता बंद कर दी " ;
+"Device moving alert "  = "डिवाइस चलती सतर्कता " ;
+"Device online alert " = "डिवाइस ऑनलाइन अलर्ट ";
+"Device offline alert "  =  "डिवाइस ऑफलाइन अलर्ट " ;
+"Device unknown alert " = "डिवाइस अज्ञात सतर्कता ";
+"Powercut Alarm " = "पावरकट अलार्म ";
+"alarm for "  =  "के लिए अलार्म " ;
+"vehicle" = "वाहन";
+" alert " = " सतर्कता ";
+
+"Overspeed" = "गति से अधिक " ;
+"overspeed" = "गति से अधिक " ;
+"vibration" = "कंपन" ;
+"lowBattery" = "बैटरी कम है";
+" alarm for " = "के लिए अलार्म" ;
+"vehicle" = "वाहन" ;
+"Alert" = "सतर्कता" ;
+" was sucessfully sent" = " सफलतापूर्वक भेजा गया था";
+
+
+// UserInfoViewController
+"Tracker Info" = "ट्रैकर जानकारी";
+"All fields are required" = "सभी फ़ील्ड आवश्यक हैं";
+
+//ActivateDevicesController
+"Message" = "संदेश";
+"Device has been added successfully." = "डिवाइस सफलतापूर्वक जोड़ा गया है";
+"OKAY" = "ठीक है";
+"All fields are required" = "सभी फ़ील्ड आवश्यक हैं";
+
+//SignUpViewController
+"Enter Username and password" = "उपयोगकर्ता नाम और पासवर्ड दर्ज करें";
+"Enter password" = "पास वर्ड दर्ज करें";
+"Enter user name" = "उपयोगकर्ता नाम दर्ज करें";
+"Password must be greater than 5 characters" = "पासवर्ड 5 वर्णों से अधिक होना चाहिए";
+"Password and confirm password does not match" = "पासवर्ड और पुष्टि पासवर्ड मेल नहीं खाता है";
+"Fill all fields" = "सभी क्षेत्रों को भरें";
+
+//OTPViewController
+"Enter OTP to register account" = "खाता पंजीकृत करने के लिए ओटीपी दर्ज करें";
+"OTP does not match. Please try again." = "ओटीपी मेल नहीं खाता है। कृपया पुन: प्रयास करें";
+"Please wait for OTP.." = "ओटीपी के लिए कृपया प्रतीक्षा करें ..";
+
+//AppSettingViewController
+"Turn Off Notifications" = "सूचनाएं बंद करो";
+"Do you want to turn off the notifications ?" = "क्या आप अधिसूचनाएं बंद करना चाहते हैं?";
+"YES" = "हाँ";
+"NO" = "नहीं";
+"Turn On Notifications" = "सूचनाओं को चालू करें";
+"Do you want to turn on the notifications" = "क्या आप अधिसूचनाएं चालू करना चाहते हैं";
+"Notification settings updated successfully." = "अधिसूचना सेटिंग्स सफलतापूर्वक अपडेट की गई";
+"Notification is alredy set" =  "अधिसूचना पहले ही सेट है";
+"Turn Off Notifications" = "सूचनाएं बंद करो";
+"Do you want to turn off the notifications ?" =  "क्या आप अधिसूचनाएं बंद करना चाहते हैं?";
+"Turn On Notifications" = "सूचनाओं को चालू करें";
+"Do you want to turn on the notifications" = "क्या आप अधिसूचनाएं चालू करना चाहते हैं";
+"Notification is alredy set" = "अधिसूचना पहले ही सेट है";
+"Notification Setting" = "अधिसूचना सेटिंग";
+"Click on Setting > Notifications > Switch On Allow Notification and choose Alert style as Banner" =  "सेटिंग पर क्लिक करें > सूचनाएं > अधिसूचना की अनुमति दें स्विच करें और अलर्ट शैली को बैनर के रूप में चुनें";
+"Setting" = "सेटिंग";
+"Please  press on setting > Bolt > Notification > Switch On Allow Notification and choose Alert style as Banner" =  "कृपया सेटिंग पर दबाएं > बोल्ट > अधिसूचना > अधिसूचना की अनुमति दें स्विच करें और अलर्ट शैली को बाने के रूप में चुनें";
+
+//ForgetPasswordViewController
+"Enter mobile number" = "मोबाइल नंबर दर्ज करें";
+
+//ResetPasswordViewController
+"Reset Password" = "पासवर्ड रीसेट";
+"Your password has been reseet. Please login using you id and new password" = "आपका पासवर्ड रीसेट किया गया है। कृपया आईडी और नए पासवर्ड का उपयोग करके लॉगिन करें";
+"ok" =  "ठीक";
+"Password and confirm password does not match." = "पासवर्ड और पुष्टि पासवर्ड मेल नहीं खाता है।";
+//OTPResetViewController
+"Enter OTP to reset password" = "पासवर्ड रीसेट करने के लिए ओटीपी दर्ज करें";
+"OTP does not match. Please try again." = "ओटीपी मेल नहीं खाता है। कृपया पुन: प्रयास करें।";
+"Please wait for OTP.." = "ओटीपी के लिए कृपया प्रतीक्षा करें ..";
+"OTP resend successfully." = "ओटीपी सफलतापूर्वक भेजता है।";
+
+//GeoFenceMapViewController
+"Create Geofence" = "जियोफ़ेंस बनाएं";
+"Enter a text" = "एक पाठ दर्ज करें";
+"Name" = "नाम";
+"Submit" = "जमा करें";
+"Please create a geofence first" = "कृपया पहले एक जियोफ़ेंस बनाएँ";
+"Geofence added successfully" = "जियोफ़ेंस सफलतापूर्वक जोड़ा गया";
+"Geofence Updated successfully" = "जियोफ़ेंस सफलतापूर्वक अपडेट किया गया";
+
+//ReportMapsViewController
+"Stop Location" = "स्थान रोको";
+"Start Location" = "स्थान शुरू करें";
+"End Location" = "अंत स्थान";
+"Replay speed is "  = "रीप्ले गति है" ;
+
+//AddGeoFenceViewController
+"Please add GeoFence First" = "कृपया जियोफेंस पहले जोड़ें";
+
+//GeoMapViewOnlyController
+"Update Geofence" = "जियोफ़ेंस अपडेट करें";
+"Enter a text" = "एक पाठ दर्ज करें";
+"Name" = "नाम";
+
+"Please create a geofence first" = "कृपया पहले एक जियोफेंस बनाएँ";
+"View Geofence" = "जियोफ़ेंस देखें";
+//
+//FollowerMapViewController
+"Sharing is no longer available" =  "साझा करना अब उपलब्ध नहीं है";
+
+//TreeViewController
+
+"Users/Vehicles" = "उपयोगकर्ताओं / वाहन";
+
+//ParkingViewController
+"Parking Mode" = "पार्किंग मोड";
+"Vehicle\'s ignition is on.\nAre you sure you want to activate parking mode for this vehicle?" = "वाहन की इग्निशन चालू है। \n क्या आप वाकई इस वाहन के लिए पार्किंग मोड को सक्रिय करना चाहते हैं?";
+"Parking mode activation failed" = "पार्किंग मोड सक्रियण विफल रहा";
+
+//ProfileViewController
+"Name" = "नाम";
+"Email" = "ईमेल";
+"Reset Password" = "पासवर्ड रीसेट";
+"Number of vechiles" = "वाहनों की संख्या";
+"Change username" = "उपयोगकर्ता नाम परिवर्तन करें";
+"Enter new user name" = "नया उपयोगकर्ता नाम दर्ज करें";
+"Change email" =  "ई - मेल बदलें";
+"Enter new email id" =  "नई ईमेल आईडी दर्ज करें";
+"Reset Password" = "पासवर्ड रीसेट";
+"Please logout & then tap on forget password to reset your password" = "कृपया लॉगआउट करें और फिर अपना पासवर्ड रीसेट करने के लिए पासवर्ड भूल गए टैप करें";
+
+
+// Error messages
+// Error messages
+
+"No data found." = "कोई डेटा नहीं मिला।";
+"Username or password is not valid." = "उपयोगकर्ता नाम या पासवर्ड मान्य नहीं है।";
+"Some problem has occured please try later." = "कुछ समस्या आई है कृपया बाद में प्रयास करें।";
+"Please check your internet connection" = "कृपया अपने इंटरनेट कनेक्शन की जाँच करें";
+"Requests successful" = "अनुरोध सफल";
+
+
+//notification day time
+
+"years ago" = "साल पहले";
+"Last year" = "पिछले साल";
+"months ago" =  "महिनो पहले";
+"Last month" =  "पिछले महीने";
+"weeks ago" =  "हफ़्तों पहले";
+"Last week" =  "पिछले सप्ताह";
+"days ago" =  "दिन पहले";
+"Yesterday" =  "बिता कल";
+"hours ago" =  "घंटो पहले";
+"An hour ago" =  "एक घंटा पहले";
+"minutes ago" =  "मिनट पहले";
+"A minute ago" =  "एक मिनट पहले";
+"seconds ago" =  "सेकंड पहले";
+"Just now" =  "अभी अभी";
+
+// tab bar menu
+"Tracking" =   "नज़र रखना";
+"Vehicles" = "वाहन";
+"Notification" =  "अधिसूचना";
+"Parking" =  "पार्किंग";
+
+"CHAT"  =  "चैट";
+"FOLLOWERS" =  "फ़ॉलोअर्स";
+
+"Please select a vehicle to immobilize" = "कृपया immobilize करने के लिए एक वाहन का चयन करें";
+"Message" = "संदेश";
+"Password changed" = "पासवर्ड बदला गया";

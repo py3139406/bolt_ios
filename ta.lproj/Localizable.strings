@@ -1,0 +1,451 @@
+
+
+// Login view
+"Login" = "உள்நுழைக";
+"UserName" = "பயனர்பெயர்";
+"Password" = "கடவுச்சொல்";
+"Forgot Password?" = "கடவுச்சொல்லை மறந்துவிட்டீர்களா?";
+"NEW USER? SIGN UP" = "புதிய பயனர்? கையெழுத்து";
+
+// LoginViewController
+
+"Enter password and User name" = "கடவுச்சொல் மற்றும் பயனர் பெயர் உள்ளிடவும்";
+"Enter password" = "கடவுச்சொல்லை உள்ளிடவும்";
+"Enter user name" = "பயனர் பெயரை உள்ளிடவும்";
+"password must be greater than 5 characters" = "கடவுச்சொல் 5 எழுத்துகளுக்கு அதிகமாக இருக்க வேண்டும்";
+"login credentials are invalid" = "உள்நுழைவு சான்றுகள் தவறானவை";
+"Fill all fields" = "அனைத்து துறைகளிலும் நிரப்பவும்";
+
+//ForgetPasswordView
+
+" Forgot Password" = " கடவுச்சொல்லை மறந்துவிட்டீர்களா";
+"Enter the mobile number you registered with Bolt and we'll send you OTP to get you back online" = "நீங்கள் பால்ட்டைப் பதிவுசெய்த மொபைல் எண்ணை உள்ளிடுக. ஆன்லைனில் உங்களை ஆன்லைனில் திரும்பப் பெற OPT ஐ அனுப்புவோம்";
+"Enter mobile number" = "மொபைல் எண் உள்ளிடவும்";
+
+// sign up view
+
+"Error" = "பிழை";
+"Sign up" = "பதிவு செய்க";
+"Mobile Number" = "மொபைல் எண்";
+"Password" = "கடவுச்சொல்";
+"Confirm Password" = "கடவுச்சொல்லை உறுதிப்படுத்துக";
+
+//OTPView
+"Enter OTP" = "OTP ஐ உள்ளிடவும்";
+"Didn\'t received? Send Again" = "பெறவில்லை? மீண்டும் அனுப்பு";
+"send otp again" = "மீண்டும் otp ஐ அனுப்பவும்";
+
+//OTPResetView
+"Enter OTP" = "OTP ஐ உள்ளிடவும்";
+"Please enter the OTP you just received,to reset your password" = "உங்கள் கடவுச்சொல்லை மீட்டமைக்க, நீங்கள் பெற்ற OTP ஐ உள்ளிடவும்";
+"Didn\'t received? Send Again" = "பெறவில்லை? மீண்டும் அனுப்பு";
+
+
+
+//ImmobilizeView
+"Immobilize" = "தடுப்பதற்கு";
+"Select Vehicle/s & tap Bolt to immobilize" = "வாகனத்தைத் தேர்ந்தெடுத்து & உற்சாகத்தைத் தட்டவும்";
+
+//HelloView
+"Hello" = "வணக்கம்";
+"Thank you for buying Bolt for your vehicle.Help us to know you better.Please enter your name & mail id below." = "உங்கள் வாகனத்திற்கு போல்ட் வாங்குவதற்கு நன்றி. உங்களுக்கு நன்றாக தெரிந்து கொள்ள எங்களுக்கு உதவுங்கள்.உங்கள் பெயர் & மின்னஞ்சல் ஐடி கீழே உள்ளிடவும்.";
+
+"Full Name" = "முழு பெயர்";
+"Email ID" = "மின்னஞ்சல் முகவரி";
+
+
+//GeofenceSegmentVehicleView
+"Select Vehicle" = "வாகனத்தைத் தேர்ந்தெடுக்கவும்";
+
+
+//ReportsView
+"Reports" = "அறிக்கைகள்";
+"Select date" = "தேதி தேர்வு";
+"Select your Vehicle" = "உங்கள் வாகனத்தைத் தேர்ந்தெடுக்கவும்";
+"STOPS" = "நிறுத்தங்கள்";
+"TRIPS" = "பயணங்கள்";
+"DAILY" = "தினசரி";
+
+//NotificationView
+"Notifications" = "அறிவிப்புகளை";
+
+//MapView
+"Traffic" = "போக்குவரத்து";
+"Satellite Map" = "செயற்கைக்கோள் வரைபடம்";
+"Ignition Path" = "பற்றவைப்பு பாதை";
+"Daily Path" = "தினசரி பாதை";
+
+//ShareView
+"Share Location" =  "பகிர்வு இருப்பிடம்";
+"Select your Vehicle" = "உங்கள் வாகனத்தைத் தேர்ந்தெடுக்கவும்";
+
+//ToolView
+"Bolt Tools" = "போல்ட் கருவிகள்";
+
+//AddEditVechileView
+
+"Search Vehicle" = "தேடல் வாகனம்";
+"VIEW ALL VEHICLES" = "எல்லா வாகனங்களையும் காண்க";
+
+//UserInformationView
+"Name of fitter" =  "ஃபிட்டர் பெயர்";
+"Vehicle Name" = "வாகன பெயர்";
+"Device Mobile Number" = "சாதன மொபைல் எண்";
+"Device IMEI Number" =  "சாதன IMEI எண்";
+
+//ActivateDevicesView
+"Activate Devices" = "சாதனங்களைச் செயலாக்கு";
+"Before activating tracker make sure following checks are done." = "கண்காணிப்பதை செயல்படுத்துவதற்கு முன்னர் சரிபார்க்கும் காசோலைகளைச் செய்யுங்கள்.";
+"Insert Sim Card" = "சிம் கார்டை செருகவும்";
+"Switch On Tracker" = "டிராக்கர் ஆன் ஸ்விட்ச்";
+"Wait Till Lights Get Stable" = "காத்திருங்கள் வரை காத்திருங்கள்";
+
+//ToolsScrollView
+"REPORTS" = "அறிக்கைகள்";
+"IMMOBILIZE" = "தடுப்பதற்கு";
+"CONNECT & SHARE" = "இணை & பகிர்";
+"APP SETTINGS" = "பயன்பாட்டு அமைப்புகள்";
+"CONFIGURATION" = "கட்டமைப்பு";
+"GEOFENCE" = "புவி வேலி";
+"HELP" = "உதவி";
+"LOGOUT" =  "வெளியேறு";
+"PROFILE" = "பின்னணிக்";
+"VEHICLE DETAILS" = "வாகன விவரங்கள்";
+"F.A.Q." = "ஐயமும்தீர்வும்" ;
+
+// AppSettingView
+"App Settings" = "பயன்பாட்டு அமைப்புகள்";
+"Language" = "மொழி";
+"Notification Tone" =  "அறிவிப்பு டோன்";
+"Online Vehicle Color" =  "ஆன்லைன் வாகன வண்ணம்" ;
+"Show/Hide Geofences" = "Geofences ஐ காட்டுக / மறை" ;
+
+//SMSCommandView
+"Configuration" = "கட்டமைப்பு";
+"Select Vehicle" = "வாகனத்தைத் தேர்ந்தெடுக்கவும்";
+
+
+//ResetPasswordView
+
+"Reset Password" = "கடவுச்சொல்லை மீட்டமைக்க";
+"Password" =  "கடவுச்சொல்";
+"Confirm Password" = "கடவுச்சொல்லை உறுதிப்படுத்துக";
+
+
+//TermsAndConditionsView
+
+"Terms & Conditions" = "விதிமுறைகளும் நிபந்தனைகளும்";
+"By tapping" = "தட்டுவதன் மூலம்";
+" you accept the terms & conditions listed above in Roadcast\'s service agreement." = " Roadcast \ 'கள் சேவை ஒப்பந்தத்தில் மேலே பட்டியலிடப்பட்டுள்ள விதிமுறைகளையும் நிபந்தனைகளையும் ஏற்றுக்கொள்கிறீர்கள்.";
+"Yes, I Agree" = "ஆம் நான் ஏற்கிறேன்";
+
+//GeoFenceMapView
+"Circle" = "வட்டம்";
+"Polygon" = "பலகோணம்";
+"Polyline" = "பாலிலைன்";
+"SUBMIT" = "சமர்ப்பி";
+
+//ReportMapView :- nothing to localize
+
+//AddGeoFenceView
+"SAVE" = "சேமிக்க";
+"NEW GE0FENCE" = "புதிய பூகோளவேலி";
+
+// ParkingView
+
+"Parking Mode" = "பார்க்கிங் முறை";
+"select vechile/s & turn on parking mode" = "வாகன/கள் தேர்வு & நிறுவுதல் முறை இயக்கவும்";
+
+//ProfileView
+"Profile" = "விவரம்";
+
+//PopUp
+"Parking Mode" = "பார்க்கிங் முறை";
+" When you turn on" = " நீங்கள் திரும்பும்போது";
+"the parking mode, your vehicle will go into \"High Alert\" mode. An alarm will generate if anyone tries to use your vehicle." = "parking mode, உங்கள் வாகனம் \"உயர் எச்சரிக்கை\" பயன்முறைக்குச் செல்லும். யாராவது உங்கள் வாகனம் பயன்படுத்த முயற்சிக்கும்போது அலாரம் உருவாக்கும்..";
+
+"DISMISS" = "நிராகரி";
+
+
+
+//RCShareConnectChatViewController
+"isTyping" = "தட்டச்சு";
+
+//SMSCommandViewController
+"Reboot Tracker" = "திரட்டியை மீண்டும் துவக்கவும்";
+"Fuel Cut-off" = "எரிபொருள் கட் ஆஃப்";
+"Fuel Cut-off Restore" = "எரிபொருள் கட்-ஆஃப் மீட்டமை";
+"Set Alert Number" = "எச்சரிக்கை எண் அமைக்கவும்";
+"Set Center Number" = "மைய எண்ணை அமை";
+"Delete Alert Number" = "எச்சரிக்கை எண்ணை நீக்கு";
+"Overspeed Calibration" = "மேல்நோக்கி அளவுத்திருத்தம்";
+"Vibration Alert" = "அதிர்வு எச்சரிக்கை";
+"Check Location via SMS" = "SMS வழியாக இருப்பிடத்தைச் சரிபார்க்கவும்";
+"Done" =  "முடிந்தது";
+"Select Vehicle" = "வாகனத்தைத் தேர்ந்தெடுக்கவும்";
+"Vehicle updated successfully." = "வெற்றிகரமாக வாகனம் புதுப்பிக்கப்பட்டது.";
+"Reboot Tracker" = "திரட்டியை மீண்டும் துவக்கவும்";
+"Do you want to reboot tracker ?" = "நீங்கள் tracker ஐ மீண்டும் துவக்க வேண்டுமா?" ;
+"Yes" = "ஆம்" ;
+"No" = "இல்லை" ;
+"Do you want to cut off fuel ?" =  "நீங்கள் எரிபொருள் குறைக்க விரும்புகிறீர்களா?";
+
+"Fuel cut off restore" = "எரிபொருள் ரத்து செய்யப்பட்டது";
+"Do you want to restore the fuel cut-off" = "எரிபொருள் வெட்டு-நிறுத்தத்தை மீட்டெடுக்க விரும்புகிறீர்களா?";
+
+"Set Alert Number" = "எச்சரிக்கை எண் அமைக்கவும்";
+"Set Center Number" = "மைய எண்ணை அமை";
+"Delete Alert Number" = "எச்சரிக்கை எண்ணை நீக்கு";
+"Overspeed Calibration" = "மேல்நோக்கி அளவுத்திருத்தம்";
+"To turn off overspeed calibration set to 0" =  "அதிகபட்ச அளவுடைய அளவு 0 ஐ அமைப்பதற்கு";
+"Vibration Alert" = "அதிர்வு எச்சரிக்கை";
+"Do you want to send vibration alert" = "அதிர்வு எச்சரிக்கை அனுப்ப வேண்டுமா?";
+"Set On" = "அமைக்கவும்";
+"Set Off" = "ஆஃப் அமைக்கவும்";
+"Cancel" =  "ரத்து";
+"Check Location via SMS" = "SMS வழியாக இருப்பிடத்தைச் சரிபார்க்கவும்" ;
+"Do you want to check location via SMS" = "SMS வழியாக இருப்பிடத்தை நீங்கள் சரிபார்க்க விரும்புகிறீர்களா?";
+
+"Please select vehicle first" = "முதலில் வாகனத்தைத் தேர்ந்தெடுக்கவும்";
+"Save" = "சேமி";
+"Do you want to delete this number" = "இந்த எண்ணை நீக்க விரும்புகிறீர்களா?";
+"Delete" = "அழி";
+"Cancel" = "ரத்து";
+"Cancelled" = "ரத்து";
+"Failed" = "தோல்வி";
+"Sent" = "அனுப்பப்பட்டது";
+"Message" = "செய்தி";
+"OK" = "சரி";
+
+//MapsViewController
+"Normal Map" =  "சாதாரண வரைபடம்";
+"Satellite Map" = "செயற்கைக்கோள் வரைபடம்";
+"Updated: " = "புதுப்பிக்கப்பட்ட: ";
+"\nSpeed: "  = "\nவேகம்: " ;
+"\nBattery: " = "\nபேட்டரி: ";
+"\nAddress: "= "\nமுகவரி: ";
+"Position is not available for this device." = "இந்த சாதனத்திற்கான நிலை இல்லை.";
+
+//GeoViewController
+"Please select vehicle" = "வாகனத்தைத் தேர்ந்தெடுக்கவும்";
+"Done" = "Done";
+"Select Vehicle" = "வாகனத்தைத் தேர்ந்தெடுக்கவும்";
+"No more than two geofence allowed on a single device." = "ஒற்றை சாதனத்தில் இரண்டு ஜியோஃபென்ஸ் அனுமதி இல்லை.";
+"Geofence deleted successfully" = "புவி வேலி வெற்றிகரமாக நீக்கப்பட்டது";
+
+//LeaderShareViewController
+"Sharing Vehicle" = "வாகனத்தை பகிர்தல்";
+"Do you want to stop sharing?" = "பகிர்வதை நிறுத்த விரும்புகிறீர்களா?";
+"Okay" = "சரி";
+"Cancel" = "ரத்து";
+" location by opening this link \n" = " lஇந்த இணைப்பை திறப்பதன் மூலம் இருப்பிடம் \n";
+"View my vehicle's location by opening this link" = "இந்த இணைப்பைத் திறப்பதன் மூலம் எனது வாகனத்தின் இருப்பிடத்தைக் காண்க";
+
+//ImmobilizeViewController
+"Please select a vehicle to mobilize" = "இந்த இணைப்பைத் திறப்பதன் மூலம் எனது வாகனத்தின் இருப்பிடத்தைக் காண்க...";
+
+//AddEditVehicleViewController
+"Unable to fetch vehicles data due to poor internet connectivity" = "மோசமான இணைய இணைப்பு காரணமாக வாகனங்கள் தரவைப் பெற முடியவில்லை";
+
+"Vehicles updated" = "வாகனங்கள் புதுப்பிக்கப்பட்டன";
+"Unable to fetch vehicles data due to poor internet connectivity" = "மோசமான இணைய இணைப்பு காரணமாக வாகனங்கள் தரவைப் பெற முடியவில்லை";
+"Last Updated: " = "கடைசியாக புதுப்பிக்கப்பட்டது: ";
+"\nLast updated: " = "\nகடைசியாக புதுப்பிக்கப்பட்டது: ";
+"ignitionOn" =  "பற்றவைப்பு";
+"ignitionOff" = "பற்றவைப்பு ஆஃப்";
+"Users" =  "பயனர்கள்";
+
+//ShareViewController
+
+"Share Vehicle" = "வாகனத்தை பகிர்ந்து கொள்ளுங்கள்";
+"Are you sure?" = "நீ சொல்வது உறுதியா?";
+"Yes" = "ஆம்";
+"No" = "இல்லை";
+"Please select vehicle first" = "முதலில் வாகனத்தைத் தேர்ந்தெடுக்கவும்";
+"View my vehicle's location by opening this link" = "இந்த இணைப்பைத் திறப்பதன் மூலம் எனது வாகனத்தின் இருப்பிடத்தைக் காண்க";
+
+//HelloViewController
+"Please fill all details" = "அனைத்து விவரங்களையும் நிரப்பவும்";
+"Thank You" = "நன்றி";
+"You can login using you id and password" = "நீங்கள் ஐடி மற்றும் கடவுச்சொல்லை பயன்படுத்தி உள்நுழையலாம்";
+"ok" = "சரி";
+
+//ReportViewController
+"Cancel" = "ரத்து";
+"Confirm" = "உறுதிப்படுத்தவும்";
+"Select Vehicle" = "வாகனத்தைத் தேர்ந்தெடுக்கவும்";
+"Please select date and your vehicle" = "தேதி மற்றும் உங்கள் வாகனத்தைத் தேர்ந்தெடுக்கவும்";
+"Please select a date" = "ஒரு தேதியைத் தேர்ந்தெடுக்கவும்";
+"Please select your vehicle" = "உங்கள் வாகனத்தைத் தேர்ந்தெடுக்கவும்";
+"No address" = "முகவரி இல்லை";
+
+//NotificationViewController
+"Notifications updated" = "அறிவிப்புகள் புதுப்பிக்கப்பட்டன";
+"Unable to fetch Notifications due to poor internet connectivity" = "மோசமான இணைய இணைப்பு காரணமாக அறிவிப்புகளை பெற முடியவில்லை";
+"Last command for " = "கடைசி கட்டளை ";
+"Ignition off alert " = "விழிப்புணர்வை புறக்கணித்தல் ";
+"for " = "ஐந்து ";
+"Ignition on alert "  = "எச்சரிக்கை மீது புறக்கணிப்பு " ;
+" has exit geofence " = " ஜியோஃபென்ஸ் வெளியேறுகிறது ";
+" has entered geofence " = " ஜியோஃபேன்ஸில் நுழைந்தது ";
+"Device stopped alert "  = "சாதனத்தை நிறுத்தியதுt " ;
+"Device moving alert "  = "சாதனம் எச்சரிக்கை நகரும் " ;
+"Device online alert " = "சாதன ஆன்லைன் எச்சரிக்கை ";
+"Device offline alert "  =  "சாதன ஆஃப்லைன் விழிப்பூட்டல் " ;
+"Device unknown alert " = "சாதனத்தின் அறியப்படாத எச்சரிக்கை ";
+"Powercut Alarm " = "பவர்அட் அலாரம் ";
+"alarm for "  =  "அலாரம்" ;
+"vehicle" = "வாகன";
+" alert " = " எச்சரிக்கை ";
+"Overspeed" = "ஓவர்கள் ஓடு" ;
+"overspeed" = "ஓவர்கள் ஓடு" ;
+"vibration" = "அதிர்வு" ;
+"lowBattery" = "குறைந்த பேட்டரி";
+" alarm for " = "அலாரம்म" ;
+"vehicle" = "வாகன" ;
+"Alert" = "எச்சரிக்கை" ;
+" was sucessfully sent" =  "வெற்றிகரமாக அனுப்பப்பட்டது";
+
+// UserInfoViewController
+"Tracker Info" = "டிராக்கர் தகவல்";
+"All fields are required" = "அனைத்து துறைகள் தேவை";
+
+//ActivateDevicesController
+"Message" = "செய்தி";
+"Device has been added successfully." = "சாதனம் வெற்றிகரமாக சேர்க்கப்பட்டது.";
+"OKAY" = "சரி";
+"All fields are required" = "அனைத்து துறைகள் தேவை";
+
+//SignUpViewController
+"Enter Username and password" = "பயனர்பெயர் மற்றும் கடவுச்சொல்லை உள்ளிடவும்";
+"Enter password" = "கடவுச்சொல்லை உள்ளிடவும்";
+"Enter user name" = "பயனர் பெயரை உள்ளிடவும்";
+"Password must be greater than 5 characters" = "கடவுச்சொல் 5 எழுத்துகளுக்கு அதிகமாக இருக்க வேண்டும்";
+"Password and confirm password does not match" = "கடவுச்சொல் மற்றும் கடவுச்சொல்லை உறுதிப்படுத்துவது பொருந்தவில்லை";
+"Fill all fields" = "அனைத்து புலங்களையும் நிரப்புக";
+
+//OTPViewController
+"Enter OTP to register account" = "கணக்கு பதிவு செய்ய OTP ஐ உள்ளிடவும்";
+"OTP does not match. Please try again." = "OTP பொருந்தவில்லை. தயவு செய்து மீண்டும் முயற்சிக்கவும்.";
+"Please wait for OTP.." = "OTP க்கு காத்திருங்கள் ..";
+
+//AppSettingViewController
+"Turn Off Notifications" = "அறிவிப்புகளை முடக்கவும்.";
+"Do you want to turn off the notifications ?" = "அறிவிப்புகளை முடக்க விரும்புகிறீர்களா?";
+"YES" = "ஆம்";
+"NO" = "இல்லை";
+"Turn On Notifications" = "அறிவிப்புகளை இயக்கு";
+"Do you want to turn on the notifications" = "அறிவிப்புகளை இயக்க விரும்புகிறீர்களா?";
+"Notification settings updated successfully." = "அறிவிப்பு அமைப்புகள் வெற்றிகரமாக புதுப்பிக்கப்பட்டன.";
+"Notification is alredy set" =  "அறிவிப்பு ஏற்கனவே அமைக்கப்பட்டுள்ளது";
+"Turn Off Notifications" = "அறிவிப்புகளை முடக்கவும்";
+"Do you want to turn off the notifications ?" =  "அறிவிப்புகளை முடக்க விரும்புகிறீர்களா? ?";
+"Turn On Notifications" = "அறிவிப்புகளை இயக்கு";
+"Do you want to turn on the notifications" = "அறிவிப்புகளை இயக்க விரும்புகிறீர்களா?";
+"Notification is alredy set" = "அறிவிப்பு ஏற்கனவே அமைக்கப்பட்டுள்ளது";
+"Notification Setting" = "அறிவிப்பு அமைத்தல்";
+"Click on Setting > Notifications > Switch On Allow Notification and choose Alert style as Banner" =  "அமைத்தல் மீது சொடுக்கவும் > அறிவிப்புகள் > மாற்று அறிவிப்பை அனுமதி மற்றும் பதாகை எச்சரிக்கை பாணி தேர்வு";
+"Setting" = "அமைப்பை";
+"Please  press on setting > Bolt > Notification > Switch On Allow Notification and choose Alert style as Banner" =  "அமைப்பை அழுத்தவும் > ஆணி > அறிவித்தல் > மாற்று அறிவிப்பை அனுமதி மற்றும் பதாகை எச்சரிக்கை பாணி தேர்வு";
+
+//ForgetPasswordViewController
+"Enter mobile number" = "மொபைல் எண் உள்ளிடவும்";
+
+//ResetPasswordViewController
+"Reset Password" = "கடவுச்சொல்லை மீட்டமைக்க";
+"Your password has been reseet. Please login using you id and new password" = "உங்கள் கடவுச்சொல் மீளமைக்கப்பட்டது. நீங்கள் ஐடி மற்றும் புதிய கடவுச்சொல்லைப் பயன்படுத்தி உள்நுழைக";
+"Password and confirm password does not match." = "கடவுச்சொல் மற்றும் கடவுச்சொல்லை உறுதிப்படுத்துவது பொருந்தவில்லை.";
+//OTPResetViewController
+"Enter OTP to reset password" = "கடவுச்சொல்லை மீட்டமைக்க OTP ஐ உள்ளிடுக";
+"OTP does not match. Please try again." = "OTP பொருந்தவில்லை. தயவு செய்து மீண்டும் முயற்சிக்கவும்.";
+"Please wait for OTP.." = "OTP க்கு காத்திருங்கள்..";
+"OTP resend successfully." = "OTP வெற்றிகரமாக அனுப்பப்பட்டது.";
+
+//GeoFenceMapViewController
+"Create Geofence" = "ஜியோ வேன்ஸை உருவாக்கவும்";
+"Enter a text" = "ஒரு உரையை உள்ளிடவும்";
+"Name" = "பெயர்";
+"Submit" = "சமர்ப்பி";
+"Please create a geofence first" = "முதலில் ஒரு ஜியோஃபென்ஸை உருவாக்கவும்";
+"Geofence added successfully" = "ஜியோ வேன் வெற்றிகரமாக சேர்க்கப்பட்டது";
+"Geofence Updated successfully" = "புவி வேலி வெற்றிகரமாக புதுப்பிக்கப்பட்டது";
+
+//ReportMapsViewController
+"Stop Location" = "இருப்பிடத்தை நிறுத்தவும்";
+"Start Location" = "இருப்பிடம் தொடங்கவும்";
+"End Location" = "இருப்பிடத்தின் முடிவு";
+"Replay speed is "  = "மறு வேகம் " ;
+
+//AddGeoFenceViewController
+"Please add GeoFence First" = "தயவுசெய்து ஜியோ வேர்ஸை முதலில் சேர்க்கவும்";
+
+//GeoMapViewOnlyController
+"Update Geofence" = "ஜியோஃபென்ஸ் புதுப்பிக்கவும்";
+"Enter a text" = "ஒரு உரையை உள்ளிடவும்";
+"Name" = "பெயர்";
+"Submit" = "சமர்ப்பி";
+"Please create a geofence first" = "முதலில் ஒரு ஜியோஃபென்ஸை உருவாக்கவும்";
+"View Geofence" = "புவி வேலினைக் காண்க";
+
+//FollowerMapViewController
+"Sharing is no longer available" =  "பகிர்வு இனி கிடைக்காது";
+
+//TreeViewController
+
+"Users/Vehicles" = "பயனர்கள் / வாகனங்கள்";
+
+//ParkingViewController
+"Parking Mode" = "பார்க்கிங் முறை";
+"Vehicle\'s ignition is on.\nAre you sure you want to activate parking mode for this vehicle?" = "வாகனத்தின் பற்றவைப்பு இயங்குகிறது. இந்த வாகனத்திற்கான நிறுவு முறைமையை நீங்கள் நிச்சயமாக செயல்படுத்த விரும்புகிறீர்களா?";
+"Parking mode activation failed" = "பார்க்கிங் பயன்முறை செயல்படுத்தல் தோல்வியடைந்தது";
+
+//ProfileViewController
+"Name" = "பெயர்";
+"Email" = "மின்னஞ்சல்";
+"Reset Password" = "கடவுச்சொல்லை மீட்டமைக்க";
+"Number of vechiles" = "வாகனங்கள் எண்ணிக்கை";
+"Change username" = "பயனர் பெயர் மாற்ற";
+"Enter new user name" = "புதிய பயனர்பெயரை உள்ளிடவும்";
+"Change email" =  "மின்னஞ்சலை மாற்று";
+"Enter new email id" =  "புதிய மின்னஞ்சல் ஐடியை உள்ளிடவும்";
+"Reset Password" = "கடவுச்சொல்லை மீட்டமைக்க";
+"Please logout & then tap on forget password to reset your password" = "தயவுசெய்து உங்கள் கடவுச்சொல்லை மீட்டமைக்க கடவுச்சொல்லை மறந்து கடவுச்சொல்லை மறந்துவிட்டு தட்டவும்";
+
+// Error messages
+
+"No data found." = "வேறு தகவல்கள் இல்லை.";
+"Username or password is not valid." = "பயனர்பெயர் அல்லது கடவுச்சொல் செல்லுபடியாகாது.";
+"Some problem has occured please try later." = "சில சிக்கல் ஏற்பட்டது பின்னர் முயற்சிக்கவும்";
+"Please check your internet connection" = "உங்கள் இணைய இணைப்பு சரிபார்க்கவும்";
+"Requests successful" = "கோரிக்கைகள் வெற்றிகரமாக";
+
+
+//notification day time
+
+"years ago" = "ஆண்டுகளுக்கு முன்பு";
+"Last year" = "கடந்த வருடம்";
+"months ago" =  "மாதங்களுக்கு முன்பு";
+"Last month" =  "கடந்த மாதம்";
+"weeks ago" =  "வாரங்களுக்கு முன்பு";
+"Last week" =  "கடந்த வாரம்";
+"days ago" =  "நாட்கள் முன்பு";
+"Yesterday" =  "நேற்று";
+"hours ago" =  "மணி நேரத்திற்க்கு முன்பு";
+"An hour ago" =  "ஒரு மணி நேரம் முன்பு";
+"minutes ago" =  "நிமிடங்கள் முன்பு";
+"A minute ago" =  "ஒரு நிமிடம் முன்பு";
+"seconds ago" =  "விநாடிகள் முன்பு";
+"Just now" =  "இப்போது";
+
+// tab bar menu
+"Tracking" =   "கண்காணிப்பு";
+"Vehicles" = "வாகனங்கள்";
+"Notification" =  "அறிவித்தல்";
+"Parking" =  "பார்க்கிங்";
+
+
+"CHAT"  =  "அரட்டை";
+"FOLLOWERS" =  "பின்பற்றுபவர்கள்";
+"Please select a vehicle to immobilize" = "ஊக்கப்படுத்த ஒரு வாகனத்தைத் தேர்ந்தெடுக்கவும்";
+"Message" = "செய்தி";
+"Password changed" = "கடவுச்சொல் மாற்றப்பட்டது";

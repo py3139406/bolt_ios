@@ -1,0 +1,453 @@
+
+
+
+// Login view
+"Login" = "Login";
+"UserName" = "Username";
+"Password" = "Password";
+"Forgot Password?" = "Forgot Password?";
+"NEW USER? SIGN UP" = "NEW USER? SIGN UP";
+
+// LoginViewController
+
+"Enter password and User name" = "Enter password and User name";
+"Enter password" = "Enter password";
+"Enter user name" = "Enter user name";
+"password must be greater than 5 characters" = "password must be greater than 5 characters";
+"login credentials are invalid" = "login credentials are invalid";
+"Fill all fields" = "Fill all fields";
+
+//ForgetPasswordView
+
+" Forgot Password" = " Forgot Password";
+"Enter the mobile number you registered with Bolt and we'll send you OTP to get you back online" = "Enter the mobile number you registered with Bolt and we'll send you OTP to get you back online";
+"Enter mobile number" = "Enter mobile number";
+
+// sign up view
+
+"Error" = "Error";
+"Sign up" = "Sign up";
+"Mobile Number" = "Mobile Number";
+"Password" = "Password";
+"Confirm Password" = "Confirm Password";
+
+//OTPView
+"Enter OTP" = "Enter OTP";
+"Didn\'t received? Send Again" = "Didn\'t received? Send Again";
+"send otp again" = "send otp again";
+
+//OTPResetView
+"Enter OTP" = "Enter OTP";
+"Please enter the OTP you just received,to reset your password" = "Please enter the OTP you just received,to reset your password";
+"Didn\'t received? Send Again" = "Didn\'t received? Send Again";
+
+
+
+//ImmobilizeView
+"Immobilize" = "Immobilize";
+"Select Vehicle/s & tap Bolt to immobilize" = "Select Vehicle/s & tap Bolt to immobilize";
+
+//HelloView
+"Hello" = "Hello";
+"Thank you for buying Bolt for your vehicle.Help us to know you better.Please enter your name & mail id below." = "Thank you for buying Bolt for your vehicle.Help us to know you better.Please enter your name & mail id below.";
+
+"Full Name" = "Full Name";
+"Email ID" = "Email ID";
+
+
+//GeofenceSegmentVehicleView
+"Select Vehicle" = "Select Vehicle";
+
+
+//ReportsView
+"Reports" = "Reports";
+"Select date" = "Select date";
+"Select your Vehicle" = "Select your Vehicle";
+"STOPS" = "STOPS";
+"TRIPS" = "TRIPS";
+"DAILY" = "DAILY";
+
+//NotificationView
+"Notifications" = "Notifications";
+
+//MapView
+"Traffic" = "Traffic";
+"Satellite Map" = "Satellite Map";
+"Ignition Path" = "Ignition Path";
+"Daily Path" = "Daily Path";
+
+//ShareView
+"Share Location" =  "Share Location";
+"Select your Vehicle" = "Select your Vehicle";
+
+//ToolView
+"Bolt Tools" = "Bolt Tools";
+
+//AddEditVechileView
+
+"Search Vehicle" = "Search Vehicle";
+"VIEW ALL VEHICLES" = "VIEW ALL VEHICLES";
+
+//UserInformationView
+"Name of fitter" =  "Name of fitter";
+"Vehicle Name" = "Vehicle Name";
+"Device Mobile Number" = "Device Mobile Number";
+"Device IMEI Number" =  "Device IMEI Number";
+
+//ActivateDevicesView
+"Activate Devices" = "Activate Devices";
+"Before activating tracker make sure following checks are done." = "Before activating tracker make sure following checks are done.";
+"Insert Sim Card" = "Insert Sim Card";
+"Switch On Tracker" = "Switch On Tracker";
+"Wait Till Lights Get Stable" = "Wait Till Lights Get Stable";
+
+//ToolsScrollView
+"REPORTS" = "REPORTS";
+"IMMOBILIZE" = "IMMOBILIZE";
+"CONNECT & SHARE" = "CONNECT & SHARE";
+"APP SETTINGS" = "APP SETTINGS";
+"CONFIGURATION" = "CONFIGURATION";
+"GEOFENCE" = "GEOFENCE";
+"HELP" = "HELP";
+"LOGOUT" =  "LOGOUT";
+"PROFILE" = "PROFILE";
+
+// AppSettingView
+" App Settings" = " App Settings";
+"Language" = "Language";
+"Notification Tone" =  "Notification Tone";
+"Online Vehicle Color" =  "Online Vehicle Color" ;
+
+//SMSCommandView
+"Configuration" = "Configuration";
+"Select Vehicle" = "Select Vehicle";
+
+
+//ResetPasswordView
+
+"Reset Password" = "Reset Password";
+"Password" =  "Password";
+"Confirm Password" = "Confirm Password";
+
+
+//TermsAndConditionsView
+
+"Terms & Conditions" = "Terms & Conditions";
+"By tapping \" Yes, I agree \"  you accept the terms & conditions listed above in Roadcast\'s service agreement." = "By tapping \" Yes, I agree \"  you accept the terms & conditions listed above in Roadcast\'s service agreement.";
+
+"Yes, I Agree" = "Yes, I Agree";
+
+//GeoFenceMapView
+"Circle" = "Circle";
+"Polygon" = "Polygon";
+"Polyline" = "Polyline";
+"SUBMIT" = "SUBMIT";
+
+//ReportMapView :- nothing to localize
+
+//AddGeoFenceView
+"SAVE" = "SAVE";
+"NEW GE0FENCE" = "NEW GE0FENCE";
+
+// ParkingView
+
+"Parking Mode" = "Parking Mode";
+"select vechile/s & turn on parking mode" = "select vechile/s & turn on parking mode";
+
+//ProfileView
+"Profile" = "Profile";
+
+//PopUp
+"Parking Mode" = "Parking Mode";
+" When you turn on" = " When you turn on";
+"the parking mode, your vehicle will go into \"High Alert\" mode. An alarm will generate if anyone tries to use your vehicle."= "the parking mode, your vehicle will go into \"High Alert\" mode. An alarm will generate if anyone tries to use your vehicle.";
+
+"DISMISS" = "DISMISS";
+
+
+
+//RCShareConnectChatViewController
+"isTyping" = "isTyping";
+
+//SMSCommandViewController
+"Reboot Tracker" = "Reboot Tracker";
+"Fuel Cut-off" = "Fuel Cut-off";
+"Fuel Cut-off Restore" = "Fuel Cut-off Restore";
+"Set Alert Number" = "Set Alert Number";
+"Set Center Number" = "Set Center Number";
+"Delete Alert Number" = "Delete Alert Number";
+"Overspeed Calibration" = "Overspeed Calibration";
+"Vibration Alert" = "Vibration Alert";
+"Check Location via SMS" = "Check Location via SMS";
+"Done" =  "Done";
+"Select Vehicle" = "Select Vehicle";
+"Vehicle updated successfully." = "Vehicle updated successfully.";
+"Reboot Tracker" = "Reboot Tracker";
+"Do you want to reboot tracker ?" = "Do you want to reboot tracker ?" ;
+"Yes" = "Yes" ;
+"No" = "No" ;
+"Do you want to cut off fuel ?" =  "Do you want to cut off fuel ?";
+
+"Fuel cut off restore" = "Fuel cut off restore";
+"Do you want to restore the fuel cut-off" = "Do you want to restore the fuel cut-off";
+
+"Set Alert Number" = "Set Alert Number";
+"Set Center Number" = "Set Center Number";
+"Delete Alert Number" = "Delete Alert Number";
+"Overspeed Calibration" = "Overspeed Calibration";
+"To turn off overspeed calibration set to 0" =  "To turn off overspeed calibration set to 0";
+"Vibration Alert" = "Vibration Alert";
+"Do you want to send vibration alert" = "Do you want to send vibration alert";
+"Set On" = "Set On";
+"Set Off" = "Set Off";
+"Cancel" =  "Cancel";
+"Check Location via SMS" = "Check Location via SMS" ;
+"Do you want to check location via SMS" = "Do you want to check location via SMS";
+
+"Please select vehicle first" = "Please select vehicle first";
+"Save" = "Save";
+"Do you want to delete this number" = "Do you want to delete this number";
+"Delete" = "Delete";
+"Cancel" = "Cancel";
+"Cancelled" = "Cancelled";
+"Failed" = "Failed";
+"Sent" = "Sent";
+"Message" = "Message";
+"OK" = "OK";
+
+//MapsViewController
+"Normal Map" =  "Normal Map";
+"Satellite Map" = "Satellite Map";
+"Updated: " = "Updated: ";
+"\nSpeed: "  = "\nSpeed: " ;
+"\nBattery: " = "\nBattery: ";
+"\nAddress: "= "\nAddress: ";
+"Position is not available for this device." = "Position is not available for this device.";
+
+//GeoViewController
+"Please select vehicle" = "Please select vehicle";
+"Done" = "Done";
+"Select Vehicle" = "Select Vehicle";
+"No more than two geofence allowed on a single device." = "No more than two geofence allowed on a single device.";
+"Geofence deleted successfully" = "Geofence deleted successfully";
+
+//LeaderShareViewController
+"Sharing Vehicle" = "Sharing Vehicle";
+"Do you want to stop sharing?" = "Do you want to stop sharing?";
+"Okay" = "Okay";
+"Cancel" = "Cancel";
+" location by opening this link \n" = " location by opening this link \n";
+"View my vehicle's location by opening this link" = "View my vehicle's location by opening this link";
+
+//ImmobilizeViewController
+"Please select a vehicle to mobilize" = "Please select a vehicle to mobilize";
+
+//AddEditVehicleViewController
+"Unable to fetch vehicles data due to poor internet connectivity" = "Unable to fetch vehicles data due to poor internet connectivity";
+
+"Vehicles updated" = "Vehicles updated";
+"Unable to fetch vehicles data due to poor internet connectivity" = "Unable to fetch vehicles data due to poor internet connectivity";
+"Last Updated: " = "Last Updated: ";
+"\nLast updated: " = "\nLast Updated: ";
+"ignitionOn" =  "ignitionOn";
+"ignitionOff" = "ignitionOff";
+"Users" =  "Users";
+
+//ShareViewController
+
+"Share Vehicle" = "Share Vehicle";
+"Are you sure?" = "Are you sure?";
+"Yes" = "Yes";
+"No" = "No";
+"Please select vehicle first" = "Please select vehicle first";
+"View my vehicle's location by opening this link" = "View my vehicle's location by opening this link";
+
+//HelloViewController
+"Please fill all details" = "Please fill all details";
+"Thank You" = "Thank You";
+"You can login using you id and password" = "You can login using you id and password";
+"ok" = "ok";
+
+//ReportViewController
+"Cancel" = "Cancel";
+"Confirm" = "Confirm";
+"Select Vehicle" = "Select Vehicle";
+"Please select date and your vehicle" = "Please select date and your vehicle";
+"Please select a date" = "Please select a date";
+"Please select your vehicle" = "Please select your vehicle";
+"No address" = "No address";
+
+//NotificationViewController
+"Notifications updated" = "Notifications updated";
+"Unable to fetch Notifications due to poor internet connectivity" = "Unable to fetch Notifications due to poor internet connectivity";
+"Last command for " = "Last command for ";
+"Ignition off alert " = "Ignition off alert ";
+"for " = "for ";
+"Ignition on alert "  = "Ignition on alert " ;
+" has exit geofence " = " has exit geofence ";
+" has entered geofence " = " has entered geofence ";
+"Device stopped alert "  = "Device stopped alert " ;
+"Device moving alert "  = "Device moving alert " ;
+"Device online alert " = "Device online alert ";
+"Device offline alert "  =  "Device offline alert " ;
+"Device unknown alert " = "Device unknown alert ";
+"Powercut Alarm " = "Powercut Alarm ";
+"alarm for "  =  "alarm for " ;
+"vehicle" = "vehicle";
+" alert " = " alert ";
+"Overspeed" = "Overspeed";
+"overspeed" = "overspeed";
+"lowBattery" = "lowBattery";
+" alarm for " = " alarm for " ;
+"vehicle" = "vehicle" ;
+"Alert" = "Alert";
+" was sucessfully sent" = " was sucessfully sent";
+
+
+// UserInfoViewController
+"Tracker Info" = "Tracker Info";
+"All fields are required" = "All fields are required";
+
+//ActivateDevicesController
+"Message" = "Message";
+"Device has been added successfully." = "Device has been added successfully.";
+"OKAY" = "OKAY";
+"All fields are required" = "All fields are required";
+
+//SignUpViewController
+"Enter Username and password" = "Enter Username and password";
+"Enter password" = "Enter password";
+"Enter user name" = "Enter user name";
+"Password must be greater than 5 characters" = "Password must be greater than 5 characters";
+"Password and confirm password does not match" = "Password and confirm password does not match";
+"Fill all fields" = "Fill all fields";
+
+//OTPViewController
+"Enter OTP to register account" = "Enter OTP to register account";
+"OTP does not match. Please try again." = "OTP does not match. Please try again.";
+"Please wait for OTP.." = "Please wait for OTP..";
+
+//AppSettingViewController
+"Turn Off Notifications" = "Turn Off Notifications";
+"Do you want to turn off the notifications ?" = "Do you want to turn off the notifications ?";
+"YES" = "YES";
+"NO" = "NO";
+"Turn On Notifications" = "Turn On Notifications";
+"Do you want to turn on the notifications" = "Do you want to turn on the notifications";
+"Notification settings updated successfully." = "Notification settings updated successfully.";
+"Notification is alredy set" =  "Notification is alredy set";
+"Turn Off Notifications" = "Turn Off Notifications";
+"Do you want to turn off the notifications ?" =  "Do you want to turn off the notifications ?";
+"Turn On Notifications" = "Turn On Notifications";
+"Do you want to turn on the notifications" = "Do you want to turn on the notifications";
+"Notification is alredy set" = "Notification is alredy set";
+"Notification Setting" = "Notification Setting";
+"Click on Setting > Notifications > Switch On Allow Notification and choose Alert style as Banner" =  "Click on Setting > Notifications > Switch On Allow Notification and choose Alert style as Banner";
+"Setting" = "Setting";
+"Please  press on setting > Bolt > Notification > Switch On Allow Notification and choose Alert style as Banner" =  "Please  press on setting > Bolt > Notification > Switch On Allow Notification and choose Alert style as Banner";
+
+//ForgetPasswordViewController
+"Enter mobile number" = "Enter mobile number";
+
+//ResetPasswordViewController
+"Reset Password" = "Reset Password";
+"Your password has been reseet. Please login using you id and new password" = "Your password has been reseet. Please login using you id and new password";
+"ok" =  "ok";
+"Password and confirm password does not match." = "Password and confirm password does not match.";
+//OTPResetViewController
+"Enter OTP to reset password" = "Enter OTP to reset password";
+"OTP does not match. Please try again." = "OTP does not match. Please try again.";
+"Please wait for OTP.." = "Please wait for OTP..";
+"OTP resend successfully." = "OTP resend successfully.";
+
+//GeoFenceMapViewController
+"Create Geofence" = "Create Geofence";
+"Enter a text" = "Enter a text";
+"Name" = "Name";
+"Submit" = "Submit";
+"Please create a geofence first" = "Please create a geofence first";
+"Geofence added successfully" = "Geofence added successfully";
+"Geofence Updated successfully" = "Geofence Updated successfully";
+
+//ReportMapsViewController
+"Stop Location" = "Stop Location";
+"Start Location" = "Start Location";
+"End Location" = "End Location";
+"Replay speed is "  = "Replay speed is " ;
+
+//AddGeoFenceViewController
+"Please add GeoFence First" = "Please add GeoFence First";
+
+//GeoMapViewOnlyController
+"Update Geofence" = "Update Geofence";
+"Enter a text" = "Enter a text";
+"Name" = "Name";
+"Submit" = "Submit";
+"Please create a geofence first" = "Please create a geofence first";
+"View Geofence" = "View Geofence";
+//
+//FollowerMapViewController
+"Sharing is no longer available" =  "Sharing is no longer available";
+
+//TreeViewController
+
+"Users/Vehicles" = "Users/Vehicles";
+
+//ParkingViewController
+"Parking Mode" = "Parking Mode";
+"Vehicle\'s ignition is on.\nAre you sure you want to activate parking mode for this vehicle?" = "Vehicle\'s ignition is on.\nAre you sure you want to activate parking mode for this vehicle?";
+"Parking mode activation failed" = "Parking mode activation failed";
+
+//ProfileViewController
+"Name" = "Name";
+"Email" = "Email";
+"Reset Password" = "Reset Password";
+"Number of vechiles" = "Number of vechiles";
+"Change username" = "Change username";
+"Enter new user name" = "Enter new user name";
+"Change email" =  "Change email";
+"Enter new email id" =  "Enter new email id";
+"Reset Password" = "Reset Password";
+"Please logout & then tap on forget password to reset your password" = "Please logout & then tap on forget password to reset your password";
+
+
+// Error messages
+
+"No data found." = "No data found.";
+"Username or password is not valid." = "Username or password is not valid.";
+"Some problem has occured please try later." = "Some problem has occured please try later.";
+"Please check your internet connection" = "Please check your internet connection";
+"Requests successful" = "Requests successful";
+
+
+//notification day time
+
+"years ago" = "years ago";
+"Last year" = "Last year";
+"months ago" =  "months ago";
+"Last month" =  "Last month";
+"weeks ago" =  "weeks ago";
+"Last week" =  "Last week";
+"days ago" =  "days ago";
+"Yesterday" =  "Yesterday";
+"hours ago" =  "hours ago";
+"An hour ago" =  "An hour ago";
+"minutes ago" =  "minutes ago";
+"A minute ago" =  "A minute ago";
+"seconds ago" =  "seconds ago";
+"Just now" =  "Just now";
+
+// tab bar menu
+"Tracking" =   "Tracking";
+"Vehicles" = "Vehicles";
+"Notification" =  "Notification";
+"Parking" =  "Parking";
+
+//chat
+
+"CHAT"  =  "CHAT";
+"FOLLOWERS" =  "FOLLOWERS";
+
+"Please select a vehicle to immobilize" = "Please select a vehicle to immobilize";
+"Message" = "Message";
+"Password changed" = "Password changed";

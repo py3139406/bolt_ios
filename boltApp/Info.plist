@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BGTaskSchedulerPermittedIdentifiers</key>
+	<array>
+		<string>in.Roadcast.Bolt</string>
+	</array>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDisplayName</key>
+	<string>Bolt</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>in.roadcast.bolt</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>bolturlscheme</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>Fabric</key>
+	<dict>
+		<key>APIKey</key>
+		<string>658ea376262a1acf2f340c23c44bde320a340287</string>
+		<key>Kits</key>
+		<array>
+			<dict>
+				<key>KitInfo</key>
+				<dict/>
+				<key>KitName</key>
+				<string>Crashlytics</string>
+			</dict>
+		</array>
+	</dict>
+	<key>FirebaseAppDelegateProxyEnabled</key>
+	<false/>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>comgooglemaps</string>
+		<string>googlechromes</string>
+	</array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>LSSupportsOpeningDocumentsInPlace</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>Allow Arbitrary Loads</key>
+		<true/>
+	</dict>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Need to access photo library for adding images to  documents regarding the vehicle in the database</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Need access to bluetooth to use immobilize photos of the user to add it into the profile of user, and to save in database.</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>bluetooth is required to mobilise or immobilise via bluetooth</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Need access to camera to click photos of the user to add it into the profile of user, and to save in database.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Allow app to acess your location to show the current location of your vehicle on the map when app is in background and to show you tracking of vehicle on the app.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Allow app to acess your location to show the current location of your vehicle on the map when app is in use and to show you tracking of vehicle on the app.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>App require microphone in case you need to send voice message to help and support chats</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Need to save the clicked photo in the library to add images to the user profile to show in app.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Need access to photo library for help chat to show images in helpchat.</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>bluetooth-central</string>
+		<string>bluetooth-peripheral</string>
+		<string>fetch</string>
+		<string>processing</string>
+		<string>remote-notification</string>
+	</array>
+	<key>UIFileSharingEnabled</key>
+	<true/>
+	<key>UILaunchStoryboardName</key>
+	<string>Launch Screen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UIRequiresFullScreen</key>
+	<true/>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UISupportsDocumentBrowser</key>
+	<true/>
+	<key>UIUserInterfaceStyle</key>
+	<string>Light</string>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+</dict>
+</plist>

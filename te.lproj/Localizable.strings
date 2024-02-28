@@ -1,0 +1,456 @@
+
+
+// Login view
+"Login" = "లాగిన్";
+"UserName" = "వాడుకరి పేరు";
+"Password" = "పాస్వర్డ్";
+"Forgot Password?" = "పాస్వర్డ్ను మర్చిపోయారు?";
+"NEW USER? SIGN UP" = "క్రొత్త యూజర్? చేరడం";
+
+// LoginViewController
+
+"Enter password and User name" = "పాస్వర్డ్ మరియు వాడుకరి పేరుని నమోదు చేయండి";
+"Enter password" = "రహస్య సంకేతం తెలపండి";
+"Enter user name" = "యూజర్ పేరు నమోదు చేయండి";
+"password must be greater than 5 characters" = "పాస్వర్డ్ తప్పక 5 అక్షరాల కంటే ఎక్కువగా ఉండాలి";
+"login credentials are invalid" = "లాగిన్ ఆధారాలు చెల్లవు";
+"Fill all fields" = "అన్ని ఫీల్డ్లను పూరించండి";
+
+//ForgetPasswordView
+
+" Forgot Password" = " పాస్వర్డ్ మర్చిపోయారా";
+"Enter the mobile number you registered with Bolt and we'll send you OTP to get you back online" = "మీరు బోల్ట్తో నమోదు చేసిన మొబైల్ నంబర్ను నమోదు చేయండి మరియు మిమ్మల్ని ఆన్ లైన్ లో తిరిగి సంప్రదించడానికి మేము మీకు OTP ను పంపుతాము";
+"Enter mobile number" = "మొబైల్ నంబర్ నమోదు చేయండి";
+
+// sign up view
+
+"Error" = "లోపం";
+"Sign up" = "చేరడం";
+"Mobile Number" = "మొబైల్ సంఖ్య";
+"Password" = "పాస్వర్డ్";
+"Confirm Password" = "పాస్వర్డ్ని నిర్ధారించండి";
+
+//OTPView
+"Enter OTP" = "OTP ను ఎంటర్ చెయ్యండి";
+"Didn\'t received? Send Again" = "అందుకోలేదా? మరల పంపు";
+"send otp again" = "మళ్ళీ otp పంపండి";
+
+//OTPResetView
+"Enter OTP" = "OTP ను ఎంటర్ చెయ్యండి";
+"Please enter the OTP you just received,to reset your password" = "దయచేసి మీరు అందుకున్న OTP ను మీ పాస్ వర్డ్ ను రీసెట్ చేయడానికి ఎంటర్ చెయ్యండి";
+"Didn\'t received? Send Again" = "స్వీకరించలేదు? మరల పంపు";
+
+
+
+//ImmobilizeView
+"Immobilize" = "మోకాళ్లు";
+"Select Vehicle/s & tap Bolt to immobilize" = "వెహికల్ / ఎస్ & ఎంబోబిలిటికి బోల్ట్ నొక్కండి";
+
+//HelloView
+"Hello" = "హలో";
+"Thank you for buying Bolt for your vehicle.Help us to know you better.Please enter your name & mail id below." = "మీ వాహనం కోసం బోల్ట్ను కొనుగోలు చేసినందుకు ధన్యవాదాలు. మీకు బాగా తెలిసినందుకు మాకు సహాయం చేయండి. దయచేసి మీ పేరు & మెయిల్ ఐడిని దిగువ నమోదు చేయండి.";
+
+"Full Name" = "పూర్తి పేరు";
+"Email ID" = "ఇమెయిల్ ID";
+
+
+//GeofenceSegmentVehicleView
+"Select Vehicle" = "వాహనాన్ని ఎంచుకోండి";
+
+
+//ReportsView
+"Reports" = "నివేదికలు";
+"Select date" = "తేదీని ఎంచుకోండి";
+"Select your Vehicle" = "మీ వాహనాన్ని ఎంచుకోండి";
+"STOPS" = "నడపండి";
+"TRIPS" = "ట్రిప్స్";
+"DAILY" = "రోజువారీ";
+
+//NotificationView
+"Notifications" = "ప్రకటనలు";
+
+//MapView
+"Traffic" = "ట్రాఫిక్";
+"Satellite Map" = "శాటిలైట్ మ్యాప్";
+"Ignition Path" = "జ్వలన మార్గం";
+"Daily Path" = "డైలీ మార్గం";
+
+//ShareView
+"Share Location" =  "స్థానాన్ని భాగస్వామ్యం చేయండి";
+"Select your Vehicle" = "మీ వాహనాన్ని ఎంచుకోండి";
+
+//ToolView
+"Bolt Tools" = "బోల్ట్ టూల్స్";
+
+//AddEditVechileView
+
+"Search Vehicle" = "శోధన వాహనం";
+"VIEW ALL VEHICLES" = "అన్ని వాహనాలను వీక్షించండి";
+
+//UserInformationView
+"Name of fitter" =  "ఫిట్టర్ పేరు";
+"Vehicle Name" = "వాహనం పేరు";
+"Device Mobile Number" = "పరికర మొబైల్ సంఖ్య";
+"Device IMEI Number" =  "పరికర IMEI సంఖ్య";
+
+//ActivateDevicesView
+"Activate Devices" = "పరికరాలను సక్రియం చేయండి";
+"Before activating tracker make sure following checks are done." = "ట్రాకర్ను సక్రియం చేయడానికి ముందు తనిఖీలను పూర్తి చేశారని నిర్ధారించుకోండి..";
+"Insert Sim Card" = "సిమ్ కార్డును చొప్పించండి";
+"Switch On Tracker" = "ట్రాకర్ ఆన్ చేయండి";
+"Wait Till Lights Get Stable" = "వెయిట్ టిల్ లైట్స్ స్థిరంగా పొందండి";
+
+//ToolsScrollView
+"REPORTS" = "నివేదికలు";
+"IMMOBILIZE" = "మోకాళ్లు";
+"CONNECT & SHARE" = "కనెక్ట్ చేయండి & భాగస్వామ్యం చేయండి";
+"APP SETTINGS" = "అనువర్తన సెట్టింగ్లు";
+"CONFIGURATION" = "ఆకృతీకరణ";
+"GEOFENCE" = "జియోఫెన్స్";
+"HELP" = "సహాయం";
+"LOGOUT" =  "లాగ్ అవుట్";
+"PROFILE" = "ప్రొఫైల్";
+"VEHICLE DETAILS" = "వెహికల్ వివరాలు";
+"F.A.Q." = "ఎఫ్ ఎ క్యూ.";
+
+// AppSettingView
+"App Settings" = "అనువర్తన సెట్టింగ్లు";
+"Language" = "భాషా";
+"Notification Tone" =  "నోటిఫికేషన్ టోన్";
+"Online Vehicle Color" =  "ఆన్లైన్ వాహన రంగు" ;
+"Show/Hide Geofences" = "Geofences చూపు / దాచు" ;
+
+
+//SMSCommandView
+"Configuration" = "ఆకృతీకరణ";
+"Select Vehicle" = "వాహనాన్ని ఎంచుకోండి";
+
+
+//ResetPasswordView
+
+"Reset Password" = "రహస్యపదాన్ని మార్చుకోండి";
+"Password" =  "పాస్వర్డ్";
+"Confirm Password" = "పాస్వర్డ్ని నిర్ధారించండి";
+
+
+//TermsAndConditionsView
+
+"Terms & Conditions" = "నిబంధనలు & షరతులు";
+"By tapping" = "నొక్కడం ద్వారా";
+"Yes, I agree " =  "అవును నేను అంగీకరిస్తున్నాను";
+" you accept the terms & conditions listed above in Roadcast\'s service agreement." = " మీరు రోడ్కాస్ట్ యొక్క సేవా ఒప్పందంలో పైన పేర్కొన్న నిబంధనలు & షరతులను అంగీకరించాలి.";
+"Yes, I Agree" = "అవును నేను అంగీకరిస్తున్నాను";
+
+//GeoFenceMapView
+"Circle" = "వృత్తం";
+"Polygon" = "పాలిగాన్";
+"Polyline" = "పాలీలైన్";
+"SUBMIT" = "సమర్పించు";
+
+//ReportMapView :- nothing to localize
+
+//AddGeoFenceView
+"SAVE" = "కాపాడుకొను";
+"NEW GE0FENCE" = "క్రొత్త గొంగళి";
+
+// ParkingView
+
+"Parking Mode" = "పార్కింగ్ మోడ్";
+"select vehicles & turn ON parking mode" = "వాహనాన్ని ఎంచుకోండి / లు & పార్కింగ్ మోడ్ ఆన్ చేయండి";
+
+//ProfileView
+"Profile" = "ప్రొఫైల్";
+
+//PopUp
+"Parking Mode" = "పార్కింగ్ మోడ్";
+" When you turn on" = " మీరు ఆన్ చేసినప్పుడు";
+"the parking mode, your vehicle will go into \"High Alert\" mode. An alarm will generate if anyone tries to use your vehicle." = "పార్కింగ్ మోడ్, మీ వాహనం \"హై హెచ్చరిక\" మోడ్లోకి వెళ్తుంది. ఎవరైనా మీ వాహనాన్ని ఉపయోగించాలని ప్రయత్నించినప్పుడు ఒక అలారం సృష్టిస్తుంది.";
+
+"DISMISS" = "రద్దుచేసే";
+
+
+
+//RCShareConnectChatViewController
+"isTyping" = "టైప్ చేస్తోంది";
+
+//SMSCommandViewController
+"Reboot Tracker" = "ట్రాకర్ను పునఃప్రారంభించండి";
+"Fuel Cut-off" = "ఇంధన కట్-ఆఫ్";
+"Fuel Cut-off Restore" = "ఇంధన కట్ ఆఫ్ పునరుద్ధరించు";
+"Set Alert Number" = "హెచ్చరిక సంఖ్యను సెట్ చేయండి";
+"Set Center Number" = "సెంటర్ సంఖ్య సెట్";
+"Delete Alert Number" = "హెచ్చరిక సంఖ్యను తొలగించండి";
+"Overspeed Calibration" = "విలోమ క్యాలిబ్రేషన్";
+"Vibration Alert" = "కంపనం హెచ్చరిక";
+"Check Location via SMS" = "SMS ద్వారా స్థానాన్ని తనిఖీ చేయండి";
+"Done" =  "పూర్తి";
+"Select Vehicle" = "వాహనాన్ని ఎంచుకోండి";
+"Vehicle updated successfully." = "వాహనం విజయవంతంగా నవీకరించబడింది.";
+"Reboot Tracker" = "ట్రాకర్ను పునఃప్రారంభించండి";
+"Do you want to reboot tracker ?" = "మీరు ట్రాకర్ను రీబూట్ చేయాలనుకుంటున్నారా?" ;
+"Yes" = "అవును" ;
+"No" = "తోబుట్టువుల" ;
+"Do you want to cut off fuel ?" =  "మీరు ఇంధనాన్ని తగ్గించాలని అనుకుంటున్నారా?";
+
+"Fuel cut off restore" = "ఇంధన పునరుద్ధరణ కట్";
+"Do you want to restore the fuel cut-off" = "మీరు ఇంధన కట్ ఆఫ్ పునరుద్ధరించడానికి అనుకుంటున్నారా";
+
+"Set Alert Number" = "హెచ్చరిక సంఖ్యను సెట్ చేయండి";
+"Set Center Number" = "సెంటర్ సంఖ్య సెట్";
+"Delete Alert Number" = "హెచ్చరిక సంఖ్యను తొలగించండి";
+"Overspeed Calibration" = "విలోమ క్యాలిబ్రేషన్";
+"To turn off overspeed calibration set to 0" =  "గరిష్టంగా లెక్కింపు అమరికను 0 కు సెట్ చేసేందుకు";
+"Vibration Alert" = "కంపనం హెచ్చరిక";
+"Do you want to send vibration alert" = "మీరు కంపన హెచ్చరికను పంపాలనుకుంటున్నారా?";
+"Set On" = "ప్రేరేపించుట";
+"Set Off" = "ఆఫ్ సెట్";
+"Cancel" =  "రద్దు";
+"Check Location via SMS" = "SMS ద్వారా స్థానాన్ని తనిఖీ చేయండి" ;
+"Do you want to check location via SMS" = "మీరు SMS ద్వారా స్థానాన్ని తనిఖీ చేయాలనుకుంటున్నారా?";
+
+"Please select vehicle first" = "మొదటి వాహనాన్ని ఎంచుకోండి";
+"Save" = "సేవ్";
+"Do you want to delete this number" = "మీరు ఈ నంబర్ను తొలగించాలనుకుంటున్నారా?";
+"Delete" = "తొలగించు";
+"Cancel" = "రద్దు";
+"Cancelled" = "రద్దు";
+"Failed" = "విఫలమైంది";
+"Sent" = "పంపిన";
+"Message" = "సందేశం";
+"OK" = "అలాగే";
+
+//MapsViewController
+"Normal Map" =  "సాధారణ మ్యాప్";
+"Satellite Map" = "శాటిలైట్ మ్యాప్";
+"Updated: " = "నవీకరించబడింది: ";
+"\nSpeed: "  = "\nస్పీడ్: " ;
+"\nBattery: " = "\nబ్యాటరీ: ";
+"\nAddress: "= "\nచిరునామా: ";
+"Position is not available for this device." = "ఈ పరికరం కోసం స్థానం అందుబాటులో లేదు.";
+
+//GeoViewController
+"Please select vehicle" = "దయచేసి వాహనాన్ని ఎంచుకోండి";
+"Done" = "పూర్తి";
+"Select Vehicle" = "వాహనాన్ని ఎంచుకోండి";
+"No more than two geofence allowed on a single device." = "ఒక పరికరంలో రెండు కంటే ఎక్కువ భౌగోళికం అనుమతించబడదు..";
+"Geofence deleted successfully" = "Geofence విజయవంతంగా తొలగించబడింది";
+
+//LeaderShareViewController
+"Sharing Vehicle" = "వాహన భాగస్వామ్యం";
+"Do you want to stop sharing?" = "మీరు భాగస్వామ్యం చేయాలనుకుంటున్నారా??";
+"Okay" = "సరే";
+"Cancel" = "రద్దు";
+" location by opening this link \n" = " ఈ లింక్ని తెరవడం ద్వారా నగర \n";
+"View my vehicle's location by opening this link" = "ఈ లింక్ను తెరవడం ద్వారా నా వాహనం యొక్క స్థానాన్ని వీక్షించండి";
+
+//ImmobilizeViewController
+"Please select a vehicle to mobilize" = "దయచేసి సమీకరణకు వాహనాన్ని ఎంచుకోండి";
+
+//AddEditVehicleViewController
+"Unable to fetch vehicles data due to poor internet connectivity" = "పేలవమైన ఇంటర్నెట్ కనెక్టివిటీ కారణంగా వాహనాల డేటాను పొందడం సాధ్యం కాదు";
+
+"Vehicles updated" = "వాహనాలు నవీకరించబడ్డాయి";
+"Unable to fetch vehicles data due to poor internet connectivity" = "పేలవమైన ఇంటర్నెట్ కనెక్టివిటీ కారణంగా వాహనాల డేటాను పొందడం సాధ్యం కాదు";
+"Last Updated: " = "చివరిగా నవీకరించబడింది:";
+"\nLast updated: " = "\nచివరిగా నవీకరించబడింది: ";
+"ignitionOn" =  "జ్వలన ఆన్";
+"ignitionOff" = "జ్వలన ఆఫ్";
+"Users" =  "వినియోగదారులు";
+
+//ShareViewController
+
+"Share Vehicle" = "వాహనాన్ని భాగస్వామ్యం చేయండి";
+"Are you sure?" = "మీరు చెప్పేది నిజమా?";
+"Yes" = "అవును";
+"No" = "తోబుట్టువుల";
+"Please select vehicle first" = "మొదటి వాహనాన్ని ఎంచుకోండి";
+"View my vehicle's location by opening this link" = "ఈ లింక్ను తెరవడం ద్వారా నా వాహనం యొక్క స్థానాన్ని వీక్షించండి";
+
+//HelloViewController
+"Please fill all details" = "దయచేసి అన్ని వివరాలను పూరించండి";
+"Thank You" = "ధన్యవాదాలు";
+"You can login using you id and password" = "మీరు మీ id మరియు పాస్వర్డ్ ఉపయోగించి లాగిన్ చేయవచ్చు";
+"ok" = "అలాగే";
+
+//ReportViewController
+"Cancel" = "రద్దు";
+"Confirm" = "నిర్ధారించండి";
+"Select Vehicle" = "వాహనాన్ని ఎంచుకోండి";
+"Please select date and your vehicle" = "దయచేసి తేదీ మరియు మీ వాహనాన్ని ఎంచుకోండి";
+"Please select a date" = "దయచేసి తేదీని ఎంచుకోండి";
+"Please select your vehicle" = "దయచేసి మీ వాహనాన్ని ఎంచుకోండి";
+"No address" = "చిరునామా లేదు";
+
+//NotificationViewController
+"Notifications updated" = "నోటిఫికేషన్లు నవీకరించబడ్డాయి";
+"Unable to fetch Notifications due to poor internet connectivity" = "పేద ఇంటర్నెట్ కనెక్టివిటీ కారణంగా నోటిఫికేషన్లను పొందడం సాధ్యం కాదు";
+"Last command for " = "కోసం చివరి ఆదేశం ";
+"Ignition off alert " = "హెచ్చరిక ఆఫ్ జ్వలన ";
+"for " = "కోసం ";
+"Ignition on alert "  = "హెచ్చరికపై జ్ఞప్తి " ;
+" has exit geofence " = " జియోఫెన్స్ను నిష్క్రమించండి ";
+" has entered geofence " = " జియోఫెన్స్లో ప్రవేశించింది ";
+"Device stopped alert "  = "పరికరం హెచ్చరికను ఆపివేసింది " ;
+"Device moving alert "  = "పరికరం హెచ్చరికను తరలించడం " ;
+"Device online alert " = "పరికర ఆన్లైన్ హెచ్చరిక ";
+"Device offline alert "  =  "పరికర ఆఫ్లైన్ హెచ్చరిక " ;
+"Device unknown alert " = "పరికరం తెలియని హెచ్చరిక ";
+"Powercut Alarm " = "పవర్ కట్ అలారం ";
+"alarm for "  =  "అలారం కోసం" ;
+"vehicle" = "వాహనం";
+" alert " = " హెచ్చరిక ";
+
+"Overspeed" = "ఓవర్ పీడెడ్";
+"overspeed" = "ఓవర్ పీడెడ్";
+"vibration" = "కదలిక";
+"lowBattery" = "తక్కువ బ్యాటరీ";
+" alarm for " = "అలారం కోసం" ;
+"vehicle" = "వాహనం" ;
+"Alert" = "హెచ్చరిక";
+" was sucessfully sent" = " విజయవంతంగా పంపబడింది";
+
+
+// UserInfoViewController
+"Tracker Info" = "ట్రాకర్ సమాచారం";
+"All fields are required" = "అన్ని ఖాళీలు పూరించవలెను";
+
+//ActivateDevicesController
+"Message" = "సందేశం";
+"Device has been added successfully." = "పరికరం విజయవంతంగా జోడించబడింది.";
+"OKAY" = "సరే";
+"All fields are required" = "అన్ని ఖాళీలు పూరించవలెను";
+
+//SignUpViewController
+"Enter Username and password" = "యూజర్పేరు మరియు పాస్వర్డ్ నమోదు చేయండి";
+"Enter password" = "రహస్య సంకేతం తెలపండి";
+"Enter user name" = "వినియోగదారు పేరుని నమోదు చేయండి";
+"Password must be greater than 5 characters" = "పాస్వర్డ్ తప్పనిసరిగా 5 అక్షరాల కంటే ఎక్కువగా ఉండాలి";
+"Password and confirm password does not match" = "పాస్ వర్డ్ మరియు పాస్వర్డ్ నిర్ధారించలేదు";
+"Fill all fields" = "అన్ని ఫీల్డ్లను పూరించండి";
+
+//OTPViewController
+"Enter OTP to register account" = "ఖాతాను నమోదు చేయడానికి OTP ను ఎంటర్ చెయ్యండి";
+"OTP does not match. Please try again." = "OTP సరిపోలలేదు. దయచేసి మళ్లీ ప్రయత్నించండి.";
+"Please wait for OTP.." = "దయచేసి OTP కోసం వేచి ఉండండి ..";
+
+//AppSettingViewController
+"Turn Off Notifications" = "ఈ పోస్ట్ కోసం నోటిఫికేషన్లను ఆపివేయి";
+"Do you want to turn off the notifications ?" = "మీరు ప్రకటనలను ఆపివేయాలనుకుంటున్నారా?";
+"YES" = "అవును";
+"NO" = "ఏ";
+"Turn On Notifications" = "నోటిఫికేషన్లను ప్రారంభించండి";
+"Do you want to turn on the notifications" = "మీరు నోటిఫికేషన్లను ప్రారంభించాలనుకుంటున్నారా?";
+"Notification settings updated successfully." = "నోటిఫికేషన్ సెట్టింగ్లు విజయవంతంగా నవీకరించబడ్డాయి.";
+"Notification is alredy set" =  "నోటిఫికేషన్ ఇప్పటికే సెట్ చేయబడింది";
+"Turn Off Notifications" = "నోటిఫికేషన్లను ఆపివేయి";
+"Do you want to turn off the notifications ?" =  "మీరు ప్రకటనలను ఆపివేయాలనుకుంటున్నారా? ?";
+"Turn On Notifications" = "నోటిఫికేషన్లను ప్రారంభించండి";
+"Do you want to turn on the notifications" = "మీరు ప్రకటనను ఆన్ చేయాలనుకుంటున్నారా?";
+"Notification is alredy set" = "నోటిఫికేషన్ ఇప్పటికే సెట్ చేయబడింది";
+"Notification Setting" = "నోటిఫికేషన్ సెట్టింగ్";
+"Click on Setting > Notifications > Switch On Allow Notification and choose Alert style as Banner" =  "సెట్టింగుపై క్లిక్ చేయండి > ప్రకటనలు > మార్చు నోటిఫికేషన్ను అనుమతించు మరియు బ్యానర్గా హెచ్చరిక శైలిని ఎంచుకోండి";
+"Setting" = "సెట్టింగు";
+"Please  press on setting > Bolt > Notification > Switch On Allow Notification and choose Alert style as Banner" =  "దయచేసి అమరిక నొక్కండి> బోల్ట్ > నోటిఫికేషన్ > మార్చు నోటిఫికేషన్ను అనుమతించు మరియు బ్యానర్గా హెచ్చరిక శైలిని ఎంచుకోండి";
+
+//ForgetPasswordViewController
+"Enter mobile number" = "మొబైల్ నంబర్ నమోదు చేయండి";
+
+//ResetPasswordViewController
+"Reset Password" = "రహస్యపదాన్ని మార్చుకోండి";
+"Your password has been reseet. Please login using you id and new password" = "మీ పాస్వర్డ్ రీసెట్ చేయబడింది. దయచేసి మీ ID మరియు క్రొత్త పాస్వర్డ్ని ఉపయోగించి లాగిన్ చేయండి";
+"ok" =  "అలాగే";
+"Password and confirm password does not match." = "పాస్ వర్డ్ మరియు పాస్వర్డ్ నిర్ధారించలేదు";
+//OTPResetViewController
+"Enter OTP to reset password" = "పాస్ వర్డ్ ను రీసెట్ చేయడానికి OTP ను ఎంటర్ చెయ్యండి";
+"OTP does not match. Please try again." = "OTP సరిపోలలేదు. దయచేసి మళ్లీ ప్రయత్నించండి";
+"Please wait for OTP.." = "దయచేసి OTP కోసం వేచి ఉండండి ..";
+"OTP resend successfully." = "OTP విజయవంతంగా మళ్ళీ పంపబడింది";
+
+//GeoFenceMapViewController
+"Create Geofence" = "జియోఫెన్స్ సృష్టించు";
+"Enter a text" = "వచనాన్ని నమోదు చేయండి";
+"Name" = "పేరు";
+"Submit" = "లొంగు";
+"Please create a geofence first" = "దయచేసి ముందుగా ఒక జియోఫెన్స్ సృష్టించండి";
+"Geofence added successfully" = "జియోఫెన్స్ విజయవంతంగా జోడించబడింది";
+"Geofence Updated successfully" = "జియోఫెన్స్ విజయవంతంగా నవీకరించబడింది";
+
+//ReportMapsViewController
+"Stop Location" = "స్థానాన్ని ఆపివేయి";
+"Start Location" = "స్థానం ప్రారంభించండి";
+"End Location" = "స్థానం ముగించు";
+"Replay speed is "  = "రీప్లే వేగం " ;
+
+//AddGeoFenceViewController
+"Please add GeoFence First" = "దయచేసి మొదట జియోఫెన్స్ ను జోడించండి";
+
+//GeoMapViewOnlyController
+"Update Geofence" = "నవీకరించండి జియోఫెన్స్";
+"Enter a text" = "వచనాన్ని నమోదు చేయండి";
+"Name" = "పేరు";
+"Submit" = "సమర్పించండి";
+"Please create a geofence first" = "దయచేసి ముందుగా ఒక జియోఫెన్స్ సృష్టించండి";
+"View Geofence" = "చూడండి జియోఫెన్స్";
+//
+//FollowerMapViewController
+"Sharing is no longer available" =  "భాగస్వామ్యం ఇకపై అందుబాటులో లేదు";
+
+//TreeViewController
+
+"Users/Vehicles" = "వినియోగదారులు / వాహనాలు";
+
+//ParkingViewController
+"Parking Mode" = "పార్కింగ్ మోడ్";
+"Vehicle\'s ignition is on.\nAre you sure you want to activate parking mode for this vehicle?" = "వాహనం యొక్క జ్వలన ఉంది. \n మీరు ఈ వాహనం కోసం పార్కింగ్ మోడ్ను సక్రియం చేయాలనుకుంటున్నారా?";
+"Parking mode activation failed" = "Parking mode activation failed";
+
+//ProfileViewController
+"Name" = "పేరు";
+"Email" = "ఇమెయిల్";
+"Reset Password" = "రహస్యపదాన్ని మార్చుకోండి";
+"Number of vechiles" = "వాహనాల సంఖ్య";
+"Change username" = "వినియోగదారు పేరుని మార్చండి";
+"Enter new user name" = "క్రొత్త యూజర్ పేరును నమోదు చేయండి";
+"Change email" =  "ఈ - మెయిల్ ను మార్చండి";
+"Enter new email id" =  "క్రొత్త ఇమెయిల్ ఐడిని నమోదు చేయండి";
+"Reset Password" = "రహస్యపదాన్ని మార్చుకోండి";
+"Please logout & then tap on forget password to reset your password" = "దయచేసి లాగ్అవుట్ చేసి, మీ పాస్ వర్డ్ ను రీసెట్ చెయ్యడానికి మర్చిపోయి పాస్వర్డ్ను నొక్కండి";
+
+// Error messages
+
+"No data found." = "డేటా కనుగొనబడలేదు.";
+"Username or password is not valid." = "యూజర్ పేరు లేదా పాస్ వర్డ్ చెల్లదు.";
+"Some problem has occured please try later." = "కొన్ని సమస్య సంభవించింది దయచేసి తరువాత ప్రయత్నించండి.";
+"Please check your internet connection" = "దయచేసి మీ ఇంటర్నెట్ కనెక్షన్ను తనిఖీ చేయండి";
+"Requests successful" = "అభ్యర్థనలు విజయవంతమయ్యాయి";
+
+
+//notification day time
+
+"years ago" = "సంవత్సరాల క్రితం";
+"Last year" = "గత సంవత్సరం";
+"months ago" =  "నెలల క్రితం";
+"Last month" =  "పోయిన నెల";
+"weeks ago" =  "వారాల క్రితం";
+"Last week" =  "గత వారం";
+"days ago" =  "రోజుల క్రితం";
+"Yesterday" =  "నిన్న";
+"hours ago" =  "గంటల క్రితం";
+"An hour ago" =  "గంటల క్రితం...";
+"minutes ago" =  "నిమిషాల ముందు";
+"A minute ago" =  "ఒక నిమిషం క్రితం";
+"seconds ago" =  "సెకన్ల క్రితం";
+"Just now" =  "ఇప్పుడే";
+
+
+// tab bar menu
+"Tracking" =   "கண்காணிப்பு";
+"Vehicles" = "வாகனங்கள்";
+"Notification" =  "அறிவித்தல்";
+"Parking" =  "பார்க்கிங்";
+
+"CHAT"  =  "చాట్";
+"FOLLOWERS" =  "అనుచరులు";
+"Please select a vehicle to immobilize" = "దయచేసి నిరోధానికి ఒక వాహనాన్ని ఎంచుకోండి";
+"Message" = "సందేశం";
+"Password changed" = "పాస్వర్డ్ మార్చబడింది";

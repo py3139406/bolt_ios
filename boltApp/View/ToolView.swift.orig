@@ -1,0 +1,376 @@
+//
+//  ToolView.swift
+//  boltApp
+//
+//  Created by Arshad Ali on 18/11/17.
+//  Copyright © 2017 Arshad Ali. All rights reserved.
+//
+
+import UIKit
+import SnapKit
+
+class ToolView: UIView {
+    
+    var topLabel:UILabel!
+    
+    var reportLabel:UILabel!
+    var reportimageView:UIImageView!
+    var reporttitleLabel:UILabel!
+    
+    var immobilizeLabel:UILabel!
+    var immobilizeimageView:UIImageView!
+    var immobilizetitleLabel:UILabel!
+    
+    var appSettingLabel:UILabel!
+    var appSettingimageView:UIImageView!
+    var apptitleLabel:UILabel!
+    
+    var smsLabel:UILabel!
+    var smsimageView:UIImageView!
+    var smstitleLabel:UILabel!
+    
+    var geoLabel:UILabel!
+    var geoimageView:UIImageView!
+    var geotitleLabel:UILabel!
+    
+    var helpLabel:UILabel!
+    var helpimageView:UIImageView!
+    var helptitleLabel:UILabel!
+    
+    var logoutLabel:UILabel!
+    var logoutimageView:UIImageView!
+    var logouttitleLabel:UILabel!
+  
+    
+    
+    override init(frame: CGRect) {
+        super.init(frame: frame)
+        addLabel()
+        addReportTiles()
+        addimmobilizeTiles()
+        addAppSetingTiles()
+        addsmsTiles()
+        addgeoTiles()
+        addhelpTiles()
+        addlogoutTiles()
+        addConstrans()
+    }
+    
+    required init?(coder aDecoder: NSCoder) {
+        super.init(coder: aDecoder)
+    }
+    
+    func addLabel(){
+        topLabel = UILabel(frame: CGRect.zero)
+        topLabel.text = "Bolt Tools"
+        topLabel.adjustsFontSizeToFitWidth = true
+        topLabel.font = UIFont.systemFont(ofSize: 50)
+        addSubview(topLabel)
+        
+    }
+   
+    func addReportTiles(){
+        reportLabel = UILabel()
+        reportLabel.backgroundColor = .white
+        addSubview(reportLabel)
+        
+        reportimageView = UIImageView()
+        reportimageView.image = #imageLiteral(resourceName: "dashicon1")
+        addSubview(reportimageView)
+        
+        reporttitleLabel = UILabel()
+        reporttitleLabel.backgroundColor = .black
+        reporttitleLabel.text = "REPORTS"
+        reporttitleLabel.adjustsFontSizeToFitWidth = true
+        reporttitleLabel.textColor = .white
+        reporttitleLabel.layer.cornerRadius = 5
+        reporttitleLabel.clipsToBounds = true
+        reporttitleLabel.textAlignment = .center
+        addSubview(reporttitleLabel)
+        
+    }
+  
+    func addimmobilizeTiles(){
+        immobilizeLabel = UILabel()
+        immobilizeLabel.backgroundColor = .white
+        addSubview(immobilizeLabel)
+        
+        immobilizeimageView = UIImageView()
+        immobilizeimageView.image = #imageLiteral(resourceName: "dashicon2")
+        addSubview(immobilizeimageView)
+        
+        immobilizetitleLabel = UILabel()
+        immobilizetitleLabel.backgroundColor = .black
+        immobilizetitleLabel.text = "IMMOBILIZE"
+        immobilizetitleLabel.adjustsFontSizeToFitWidth = true
+        immobilizetitleLabel.textColor = .white
+        immobilizetitleLabel.layer.cornerRadius = 5
+        immobilizetitleLabel.clipsToBounds = true
+        immobilizetitleLabel.textAlignment = .center
+        addSubview(immobilizetitleLabel)
+        
+    }
+    
+    func addAppSetingTiles(){
+        appSettingLabel = UILabel()
+        appSettingLabel.backgroundColor = .white
+        addSubview(appSettingLabel)
+        
+        appSettingimageView = UIImageView()
+          appSettingimageView.image = #imageLiteral(resourceName: "dashicon3")
+        addSubview(  appSettingimageView)
+        
+        apptitleLabel = UILabel()
+        apptitleLabel.backgroundColor = .black
+        apptitleLabel.text = "APP SETTINGS"
+        apptitleLabel.textColor = .white
+        apptitleLabel.adjustsFontSizeToFitWidth = true
+        apptitleLabel.layer.cornerRadius = 5
+        apptitleLabel.clipsToBounds = true
+        apptitleLabel.textAlignment = .center
+        addSubview(apptitleLabel)
+        
+    }
+    
+    func addsmsTiles(){
+        smsLabel = UILabel()
+        smsLabel.backgroundColor = .white
+        addSubview(smsLabel)
+        
+        smsimageView = UIImageView()
+        smsimageView.image = #imageLiteral(resourceName: "dashicon4")
+        addSubview(smsimageView)
+        
+        smstitleLabel = UILabel()
+        smstitleLabel.backgroundColor = .black
+        smstitleLabel.text = "SMS COMMANDS"
+        smstitleLabel.adjustsFontSizeToFitWidth = true
+        smstitleLabel.textColor = .white
+        smstitleLabel.layer.cornerRadius = 5
+        smstitleLabel.clipsToBounds = true
+        smstitleLabel.textAlignment = .center
+        addSubview(smstitleLabel)
+        
+    }
+    
+    func addgeoTiles(){
+        geoLabel = UILabel()
+        geoLabel.backgroundColor = .white
+        addSubview(geoLabel)
+        
+        geoimageView = UIImageView()
+        geoimageView.image = #imageLiteral(resourceName: "dashicon5")
+        addSubview(geoimageView)
+        
+        geotitleLabel = UILabel()
+        geotitleLabel.backgroundColor = .black
+        geotitleLabel.text = "GEOFENCE"
+        geotitleLabel.textColor = .white
+        geotitleLabel.adjustsFontSizeToFitWidth = true
+        geotitleLabel.layer.cornerRadius = 5
+        geotitleLabel.clipsToBounds = true
+        geotitleLabel.textAlignment = .center
+        addSubview(geotitleLabel)
+        
+    }
+    
+    func addhelpTiles(){
+        helpLabel = UILabel()
+        helpLabel.backgroundColor = .white
+        addSubview(helpLabel)
+        
+        helpimageView = UIImageView()
+        helpimageView.image = #imageLiteral(resourceName: "help")
+        addSubview(helpimageView)
+        
+        helptitleLabel = UILabel()
+        helptitleLabel.backgroundColor = .black
+        helptitleLabel.text = "HELP"
+        helptitleLabel.adjustsFontSizeToFitWidth = true
+        helptitleLabel.textColor = .white
+        helptitleLabel.layer.cornerRadius = 5
+        helptitleLabel.clipsToBounds = true
+        helptitleLabel.textAlignment = .center
+        addSubview(helptitleLabel)
+        
+    }
+    
+    
+    func addlogoutTiles(){
+        logoutLabel = UILabel()
+        logoutLabel.backgroundColor = .white
+        addSubview(logoutLabel)
+        
+        logoutimageView = UIImageView()
+        logoutimageView.image = #imageLiteral(resourceName: "logoutlogo")
+        addSubview(logoutimageView)
+        
+        logouttitleLabel = UILabel()
+        logouttitleLabel.backgroundColor = .black
+        logouttitleLabel.text = "LOGOUT"
+        logouttitleLabel.textColor = .white
+        logouttitleLabel.layer.cornerRadius = 5
+        logouttitleLabel.clipsToBounds = true
+        logouttitleLabel.textAlignment = .center
+        addSubview(logouttitleLabel)
+        
+    }
+   
+ 
+    
+    func addConstrans(){
+       
+        topLabel.snp.makeConstraints { (make) in
+            make.top.equalToSuperview().offset(40)
+            make.left.equalToSuperview().offset(20)
+            make.width.equalToSuperview().multipliedBy(0.6)
+            make.height.equalToSuperview().multipliedBy(0.07)
+            
+        
+        }
+        
+        reportLabel.snp.makeConstraints { (make) in
+            make.top.equalTo(topLabel.snp.bottom).offset(20)
+            make.left.equalToSuperview().offset(10)
+            make.width.equalToSuperview().multipliedBy(0.44)
+            make.height.equalToSuperview().multipliedBy(0.21)
+        }
+        
+        reportimageView.snp.makeConstraints { (make) in
+            make.centerX.equalTo(reportLabel)
+            make.centerY.equalTo(reportLabel)
+            make.height.width.equalTo(reportLabel).multipliedBy(0.25)
+        }
+        
+        reporttitleLabel.snp.makeConstraints { (make) in
+            make.centerX.equalTo(reportLabel)
+            make.bottom.equalTo(reportLabel.snp.bottom).offset(-15)
+            make.width.equalTo(reportLabel).multipliedBy(0.55)
+            
+        }
+        
+        immobilizeLabel.snp.makeConstraints { (make) in
+//            make.left.equalTo(reportLabel.snp.right).offset(10)
+            make.right.equalToSuperview().offset(-10)
+            make.top.height.width.equalTo(reportLabel)
+            
+        }
+        
+        immobilizeimageView.snp.makeConstraints { (make) in
+            make.centerX.equalTo(immobilizeLabel)
+            make.centerY.equalTo(immobilizeLabel)
+            make.height.width.equalTo(immobilizeLabel).multipliedBy(0.25)
+        }
+        
+        immobilizetitleLabel.snp.makeConstraints { (make) in
+            make.centerX.equalTo(immobilizeLabel)
+            make.bottom.equalTo(immobilizeLabel.snp.bottom).offset(-15)
+            make.width.equalTo(immobilizeLabel).multipliedBy(0.70)
+            
+        }
+       
+        appSettingLabel.snp.makeConstraints { (make) in
+//            make.right.equalToSuperview().offset(-10)
+            make.left.equalTo(reportLabel.snp.left)
+            make.top.equalTo(reportLabel.snp.bottom).offset(10)
+            make.width.height.equalTo(reportLabel)
+        }
+        
+        appSettingimageView.snp.makeConstraints { (make) in
+            make.centerX.equalTo(appSettingLabel)
+            make.centerY.equalTo(appSettingLabel)
+            make.height.width.equalTo(appSettingLabel).multipliedBy(0.25)
+        }
+        
+        apptitleLabel.snp.makeConstraints { (make) in
+            make.centerX.equalTo(appSettingLabel)
+            make.bottom.equalTo(appSettingLabel.snp.bottom).offset(-15)
+            make.width.equalTo(appSettingLabel).multipliedBy(0.80)
+            
+        }
+  
+        smsLabel.snp.makeConstraints { (make) in
+            make.right.equalToSuperview().offset(-10)
+            make.top.height.width.equalTo(appSettingLabel)
+
+        }
+
+        smsimageView.snp.makeConstraints { (make) in
+            make.centerX.equalTo(smsLabel)
+            make.centerY.equalTo(smsLabel)
+            make.height.width.equalTo(smsLabel).multipliedBy(0.25)
+        }
+
+        smstitleLabel.snp.makeConstraints { (make) in
+            make.centerX.equalTo(smsLabel)
+            make.bottom.equalTo(smsLabel.snp.bottom).offset(-15)
+            make.width.equalTo(smsLabel).multipliedBy(0.90)
+
+        }
+
+        geoLabel.snp.makeConstraints { (make) in
+            make.left.equalTo(reportLabel)
+            make.top.equalTo(appSettingLabel.snp.bottom).offset(10)
+            make.width.height.equalTo(reportLabel)
+        }
+
+        geoimageView.snp.makeConstraints { (make) in
+            make.centerX.equalTo(geoLabel)
+            make.centerY.equalTo(geoLabel)
+            make.height.width.equalTo(geoLabel).multipliedBy(0.25)
+        }
+
+        geotitleLabel.snp.makeConstraints { (make) in
+            make.centerX.equalTo(geoLabel)
+            make.bottom.equalTo(geoLabel.snp.bottom).offset(-15)
+            make.width.equalTo(geoLabel).multipliedBy(0.60)
+
+        }
+
+        helpLabel.snp.makeConstraints { (make) in
+            make.right.equalToSuperview().offset(-10)
+            make.top.height.width.equalTo(geoLabel)
+
+        }
+
+        helpimageView.snp.makeConstraints { (make) in
+            make.centerX.equalTo(helpLabel)
+            make.centerY.equalTo(helpLabel)
+            make.height.width.equalTo(helpLabel).multipliedBy(0.25)
+        }
+
+        helptitleLabel.snp.makeConstraints { (make) in
+            make.centerX.equalTo(helpLabel)
+            make.bottom.equalTo(helpLabel.snp.bottom).offset(-15)
+            make.width.equalTo(helpLabel).multipliedBy(0.35)
+
+        }
+
+        
+        logoutLabel.snp.makeConstraints { (make) in
+            make.left.equalTo(geoLabel.snp.left)
+            make.top.equalTo(geoLabel.snp.bottom).offset(20)
+            make.height.width.equalTo(geoLabel)
+            
+        }
+        
+        logoutimageView.snp.makeConstraints { (make) in
+            make.centerX.equalTo(logoutLabel)
+            make.centerY.equalTo(logoutLabel)
+            make.height.width.equalTo(logoutLabel).multipliedBy(0.25)
+        }
+        
+        logouttitleLabel.snp.makeConstraints { (make) in
+            make.centerX.equalTo(logoutLabel)
+            make.bottom.equalTo(logoutLabel.snp.bottom).offset(-15)
+            make.width.equalTo(logoutLabel).multipliedBy(0.35)
+            
+        }
+        
+       
+    }
+}
+
+
+
+
